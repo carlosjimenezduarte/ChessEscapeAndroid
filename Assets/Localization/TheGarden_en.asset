@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TheGarden_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: f728d3f0e5e8a6e43aa08f50fd652cbe, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38081286144
+    m_Localized: Are you sure you want to open this chest?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40966967296
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124223901696
+    m_Localized: All right!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34964918272
+    m_Localized: "You don\u2019t have the key to open this chest yet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44024614912
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24202007695360
+    m_Localized: The Garden
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

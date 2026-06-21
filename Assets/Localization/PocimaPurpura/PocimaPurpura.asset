@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: PocimaPurpura
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: d55a27edfd55f74468edd460739ec2f4, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: b3e0bfc3f639ce04e852f569106c5a6f, type: 2}
+  - {fileID: 11400000, guid: cb90cfd532fabff4da4e5b90c0121c5e, type: 2}
+  - {fileID: 11400000, guid: f38845a8874878c4d8136e593a219f8e, type: 2}
+  - {fileID: 11400000, guid: 75c5131225245ec418ae295dae3c0253, type: 2}
+  - {fileID: 11400000, guid: dca623720de8470428ae006d80f7d11a, type: 2}
+  - {fileID: 11400000, guid: d20d2fd35b43ad54983af0bc76418e83, type: 2}
+  - {fileID: 11400000, guid: b0d1829708b2d8d4083d67067c017958, type: 2}
+  - {fileID: 11400000, guid: 7dae3212687229a40802120cb8af3472, type: 2}
+  - {fileID: 11400000, guid: fee9fa7f809aa194baabea30641e4869, type: 2}
+  - {fileID: 11400000, guid: 5373c7d645046af44a5108657d3bad1a, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

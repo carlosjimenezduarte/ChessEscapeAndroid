@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Estrella del Reino
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 598791bd34a1efc449a1a7090740f016, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: ec6b5c54d09130740bca46388b3bdbdd, type: 2}
+  - {fileID: 11400000, guid: 5914d672318487e49b10edaedf6a1867, type: 2}
+  - {fileID: 11400000, guid: 00ec8e8aac5b067458bb85cc66cec0c9, type: 2}
+  - {fileID: 11400000, guid: ab173cec30c38b44a835372d75095231, type: 2}
+  - {fileID: 11400000, guid: e921f5f32bceffe44923c66012ad779e, type: 2}
+  - {fileID: 11400000, guid: 1fbd887902364c345aa80c49a35e47ad, type: 2}
+  - {fileID: 11400000, guid: 8787ea07227988544b6a7f6c4a412569, type: 2}
+  - {fileID: 11400000, guid: 01f6b8ff717755e42bb27014aabd2378, type: 2}
+  - {fileID: 11400000, guid: 5fa139c0c9122db429856f7d06c67a5c, type: 2}
+  - {fileID: 11400000, guid: 914524a62ed0a61459a044ced0379cd3, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

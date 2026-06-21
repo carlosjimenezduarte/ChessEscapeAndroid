@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Cinematica2 Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Cinematica2
+  m_TableCollectionNameGuidString: 96de11300926c0d4e9b8e616013fe5be
+  m_Entries:
+  - m_Id: 10415656960
+    m_Key: Cinematica_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13158731776
+    m_Key: Cinematica_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17453699072
+    m_Key: Cinematica_13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20037390336
+    m_Key: Cinematica_14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22855962624
+    m_Key: Cinematica_15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27385810944
+    m_Key: Cinematica_16
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7612478955518951514
+  references:
+    version: 2
+    RefIds:
+    - rid: 7612478955518951514
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1757804568449

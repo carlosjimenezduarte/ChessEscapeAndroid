@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ReinaNegraHonors_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c401fd79d8ca7354ea1f71d6936f0efd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18611326976
+    m_Localized: Black Queen I Dan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57433804800
+    m_Localized: Defeat 1 Black Queen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66493501440
+    m_Localized: Black Queen II Dan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95924932608
+    m_Localized: Defeat 3 Black Queens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102300274688
+    m_Localized: Black Queen III Dan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120415473664
+    m_Localized: Defeat 5 Black Queens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123838025728
+    m_Localized: Black Queen IV Dan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155882508288
+    m_Localized: Defeat 7 Black Queens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 159003070464
+    m_Localized: Black Queen V Dan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435424481280
+    m_Localized: Defeat 10 Black Queens
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

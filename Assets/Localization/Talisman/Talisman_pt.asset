@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Talisman_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 98e3d0f3d00f6c549a09ca9568e0632f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7255240704
+    m_Localized: "Talism\xE3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27178184704
+    m_Localized: Efeitos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74355716096
+    m_Localized: -1 diamante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125425561600
+    m_Localized: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154555002880
+    m_Localized: -25 pontos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181729898496
+    m_Localized: O efeito aplica-se mesmo se for coletado antes de adquirir um diamante.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

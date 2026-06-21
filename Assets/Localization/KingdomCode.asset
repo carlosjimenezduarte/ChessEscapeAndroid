@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: KingdomCode
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: d017ceb777f1c644187d3f576fc0f91e, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 07f0c353b15673b45a180edd4b354ecc, type: 2}
+  - {fileID: 11400000, guid: d845603943f43714ca4b2a2429de03fe, type: 2}
+  - {fileID: 11400000, guid: 325e528eb2a8dd7459dcaac7ee14af06, type: 2}
+  - {fileID: 11400000, guid: 95fb0d17942f53248889b179f367b6c6, type: 2}
+  - {fileID: 11400000, guid: b4cecf146026ee547ac6609561333abb, type: 2}
+  - {fileID: 11400000, guid: 4bb45663314afcb489ebf43589df2ed1, type: 2}
+  - {fileID: 11400000, guid: 3d9a8094918c1254abcbdb8b85194c0f, type: 2}
+  - {fileID: 11400000, guid: 998dcc71f1718b14fa609059e0c6caee, type: 2}
+  - {fileID: 11400000, guid: bab074ca36120ee439c41b7854b66c3d, type: 2}
+  - {fileID: 11400000, guid: 081214c2284d2b846b64be918409f2c8, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

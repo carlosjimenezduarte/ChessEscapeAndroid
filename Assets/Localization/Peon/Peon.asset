@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Peon
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 87d7fab5a655c284ca0c105250e3e669, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: a7b838b9d45e901438822d507b481cb2, type: 2}
+  - {fileID: 11400000, guid: 8cb93cab00f1c8d499690c569e40b57e, type: 2}
+  - {fileID: 11400000, guid: 904b8cb01c0d13e47bfb77e606f585e8, type: 2}
+  - {fileID: 11400000, guid: 75d7e0a9d374f124e98b4f866cd53f9d, type: 2}
+  - {fileID: 11400000, guid: d0b6b9c5627f6b546b0c7cf55f0a51ad, type: 2}
+  - {fileID: 11400000, guid: 998614282635d50468be6930bc14bf4f, type: 2}
+  - {fileID: 11400000, guid: 82f43873647269a448abedcdcb39c79e, type: 2}
+  - {fileID: 11400000, guid: 825574bd635eec046af5d6cfec209c95, type: 2}
+  - {fileID: 11400000, guid: 72cdc1fc0c9d4284dbed4528ec0dee99, type: 2}
+  - {fileID: 11400000, guid: 7f04a112e1e1eda4f8f1e93b8b9ad656, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

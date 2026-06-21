@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: LogrosCofres
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: cb5696f137ca1054aa818f2137e02964, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: d93bf6cdb2e52e043a21f11d3a132b2c, type: 2}
+  - {fileID: 11400000, guid: 9e7a0f21d86652e43867f7f8c92b3965, type: 2}
+  - {fileID: 11400000, guid: 6ea22bfcbe5c19740ae8f169033bc793, type: 2}
+  - {fileID: 11400000, guid: 466358cd6aad74f4295b7d440f2a7981, type: 2}
+  - {fileID: 11400000, guid: f239e6922b75e6d4d8683896f3af7af5, type: 2}
+  - {fileID: 11400000, guid: aea5da84c93680d44ac8ae5a9f5b3445, type: 2}
+  - {fileID: 11400000, guid: 070b0f22469450f45b36c853a31d4a90, type: 2}
+  - {fileID: 11400000, guid: f736778797b6db948b5954c0cd9f2014, type: 2}
+  - {fileID: 11400000, guid: 2e779cf4b75d2e049852c5a588ff6d70, type: 2}
+  - {fileID: 11400000, guid: 39328e0ae11cad548982e474f8c33609, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DefensorVerde_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 302e2859f41c9e8478592945959703b0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5751590912
+    m_Localized: "Gr\xFCner Verteidiger 1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10482765824
+    m_Localized: Besiege 1 Roten Turm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15318798336
+    m_Localized: "Gr\xFCner Verteidiger 2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18602938368
+    m_Localized: "Besiege 10 Rote T\xFCrme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22465892352
+    m_Localized: "Gr\xFCner Verteidiger 3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27461308416
+    m_Localized: "Besiege 20 Rote T\xFCrme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31487840256
+    m_Localized: "Gr\xFCner Verteidiger 4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177952935936
+    m_Localized: "Besiege 30 Rote T\xFCrme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195338326016
+    m_Localized: "Gr\xFCner Verteidiger 5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226304872448
+    m_Localized: "Besiege 50 Rote T\xFCrme"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

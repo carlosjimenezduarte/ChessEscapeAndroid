@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: NivelesDesafio
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 5db489a6f6c97e54bb9f2d4cf9dffb3d, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 0fd6b79ab9aec854fa163ea13107fe49, type: 2}
+  - {fileID: 11400000, guid: 837bd2983bacb05479fd0971e2146d34, type: 2}
+  - {fileID: 11400000, guid: 56ee47f85eb82444092bc14aca694d6a, type: 2}
+  - {fileID: 11400000, guid: d7eab4cb5bcabb44188a0a3bfaaf46ed, type: 2}
+  - {fileID: 11400000, guid: 3cda005b2475bb74cb626eb3ad0c1d65, type: 2}
+  - {fileID: 11400000, guid: 903e011f3bdb1fb4fb932c480d9cf57a, type: 2}
+  - {fileID: 11400000, guid: 0be2dbfebc6e91445bf19bb710dee645, type: 2}
+  - {fileID: 11400000, guid: f2330b91819e7e44b81a81039ac5d0b2, type: 2}
+  - {fileID: 11400000, guid: 232b0450b7bf3664e87f9c61500c05e9, type: 2}
+  - {fileID: 11400000, guid: 870ca3e4f56a1d94d817fbfb7400d22a, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

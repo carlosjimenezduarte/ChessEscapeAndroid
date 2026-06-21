@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: PocimaVerde
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: a8c0894dc1a55e3418cb4bc1c74a3f20, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: adba31cf7d9ab034fb252e7b0dc151c8, type: 2}
+  - {fileID: 11400000, guid: 800b1305dbad4a0489dce7f30da66ef4, type: 2}
+  - {fileID: 11400000, guid: a4fd0a3c02da43048a6828ed6e10a5ad, type: 2}
+  - {fileID: 11400000, guid: 79de7ba21feb46a46ade42d4e30a7a60, type: 2}
+  - {fileID: 11400000, guid: 86a95092b6eddfb4ab18e09e0db89163, type: 2}
+  - {fileID: 11400000, guid: 7dc5580fcf12b394cbb73a33f149de91, type: 2}
+  - {fileID: 11400000, guid: a5c55c9fcce47ed4381f730b1c9b5612, type: 2}
+  - {fileID: 11400000, guid: 0b961a83ff0746a4ea8bf5d5af277c41, type: 2}
+  - {fileID: 11400000, guid: 83ebd14d5e587954da75b60fb0e700e9, type: 2}
+  - {fileID: 11400000, guid: c031e594ba0b66849ba840016b1e6589, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

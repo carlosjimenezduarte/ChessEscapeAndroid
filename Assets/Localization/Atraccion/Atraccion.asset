@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Atraccion
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 3c5c6da1a4b6dfd4ea41eb610c38498f, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: bc188e7beedc6a1448b0390e76c24ab8, type: 2}
+  - {fileID: 11400000, guid: 741a8164882244b41998708aedc2dfde, type: 2}
+  - {fileID: 11400000, guid: f35612c97ee98c743957e6ce56204553, type: 2}
+  - {fileID: 11400000, guid: 074f4c5cb36b2cc4e88e592ea5461d62, type: 2}
+  - {fileID: 11400000, guid: 45af490d1bad40b4799de65089752dc5, type: 2}
+  - {fileID: 11400000, guid: e526a16ba66ca0546b89d216d87a69a4, type: 2}
+  - {fileID: 11400000, guid: 8bcc42b4e9510ca4e95fcb47e015c8b3, type: 2}
+  - {fileID: 11400000, guid: 580459a6fbe4df745b6595602acab700, type: 2}
+  - {fileID: 11400000, guid: 4faf43b8e4239c3459e31cdfdcf5a62d, type: 2}
+  - {fileID: 11400000, guid: af8b009c7b4bfe44f86ddaf87d0fc7e8, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

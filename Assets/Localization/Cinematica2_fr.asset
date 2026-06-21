@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cinematica2_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 96de11300926c0d4e9b8e616013fe5be, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10415656960
+    m_Localized: "\xC0 son arriv\xE9e dans la salle 100, l\u2019homme re\xE7ut une
+      visite inattendue."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13158731776
+    m_Localized: "Le G\xE9nie le f\xE9licita pour son engagement et l\u2019encouragea
+      \xE0 pers\xE9v\xE9rer jusqu\u2019\xE0 la fin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17453699072
+    m_Localized: "Puis il lui parla de l\u2019existence d\u2019un Coffre L\xE9gendaire\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20037390336
+    m_Localized: "\xAB \u2026un tr\xE9sor qui ne peut \xEAtre ouvert qu\u2019avec
+      les trois fragments de la Clef Sacr\xE9e \xBB, affirma le G\xE9nie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22855962624
+    m_Localized: "\xAB Si tu parviens \xE0 ouvrir ce Coffre, tu cesseras d\u2019\xEAtre
+      seulement une Pi\xE8ce\u2026 et tu deviendras un v\xE9ritable Roi Couronn\xE9
+      \xBB, assura le G\xE9nie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27385810944
+    m_Localized: "Avec cette promesse, l\u2019homme renouvela ses forces et accepta
+      les d\xE9fis qui l\u2019attendaient encore."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

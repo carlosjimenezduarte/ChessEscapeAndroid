@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Creditos
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: a0abd072a5f9f8a41800e8b24273a65c, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 76f9746be1c640e4ab01eb63a82dcf57, type: 2}
+  - {fileID: 11400000, guid: 4631e8066377e414b9e239569db27a91, type: 2}
+  - {fileID: 11400000, guid: 01ead8d5f0c97fe4eb582a14e6b313c7, type: 2}
+  - {fileID: 11400000, guid: 4b27ec5000a0d524faa4c3bc2bbd2915, type: 2}
+  - {fileID: 11400000, guid: a67cb06a608087f4a8045bdd2a5fd3b0, type: 2}
+  - {fileID: 11400000, guid: 37c81dc8251f3754bb6ad99e97e1897e, type: 2}
+  - {fileID: 11400000, guid: d15c76390322a2f4bbe95a1a308f0680, type: 2}
+  - {fileID: 11400000, guid: cab1b7181f2ef3c40a3908a1b18a4933, type: 2}
+  - {fileID: 11400000, guid: 0169dc4b74a555b4b948270477a643d6, type: 2}
+  - {fileID: 11400000, guid: 95244e805ea4b984bb2a44536ec450a5, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

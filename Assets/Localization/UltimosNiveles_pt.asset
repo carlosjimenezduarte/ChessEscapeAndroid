@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UltimosNiveles_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: d30a74d5a5b367642a823a78f3e04710, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8121372672
+    m_Localized: "Lembra-te da promessa do G\xE9nio!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38651711488
+    m_Localized: "Se conseguires abrir o Cofre Lend\xE1rio, ser\xE1s um Rei Coroado!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61904932864
+    m_Localized: Esta jornada chega ao fim!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93446098944
+    m_Localized: "Est\xE1s preparado para descobrir o que se esconde atr\xE1s desta
+      porta?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 143375093760
+    m_Localized: Tu consegues!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ReinaNegra_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 6a162fa3842b22c47a126a750cb9982e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31108247552
+    m_Localized: Reina Negra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62171262976
+    m_Localized: Rango de ataque letal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136360112128
+    m_Localized: Desplazamiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221152161792
+    m_Localized: Diagonal, vertical y horizontal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283060088832
+    m_Localized: Ataca a toda ficha que ingrese en su rango de ataque y ejecuta hasta
+      7 Fichas Aliadas de manera consecutiva.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

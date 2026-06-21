@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UltimosNiveles Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UltimosNiveles
+  m_TableCollectionNameGuidString: d30a74d5a5b367642a823a78f3e04710
+  m_Entries:
+  - m_Id: 8121372672
+    m_Key: GenioPromesa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38651711488
+    m_Key: GenioCofre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61904932864
+    m_Key: FindelViaje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93446098944
+    m_Key: Puerta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 143375093760
+    m_Key: Lolograste
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7612479001671499866
+  references:
+    version: 2
+    RefIds:
+    - rid: 7612479001671499866
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1757987258523

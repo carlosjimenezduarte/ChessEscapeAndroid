@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LogrosLlaves Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: LogrosLlaves
+  m_TableCollectionNameGuidString: 46538dff8cf17084bb0896bdb1e889af
+  m_Entries:
+  - m_Id: 6204575744
+    m_Key: Logro2Llaves
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45140299776
+    m_Key: Logro2LlavesDescripcion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75477700608
+    m_Key: Logro3Llaves
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96478580736
+    m_Key: Logro3LlavesDescripcion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117382991872
+    m_Key: Logro4Lllaves
+    m_Metadata:
+      m_Items: []
+  - m_Id: 165634265088
+    m_Key: Logro4LlavesDescripcion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352733777920
+    m_Key: Logro5Lllaves
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390717394944
+    m_Key: Logro5LlavesDescripcion
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7612479032432001024
+  references:
+    version: 2
+    RefIds:
+    - rid: 7612479032432001024
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1758055310517

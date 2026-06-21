@@ -1,0 +1,784 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Portuguese (pt)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Portuguese (pt)
+  m_GUID: 8b79475cff2d22b4f80a6f69dcf9fb7e
+  m_SerializeEntries:
+  - m_GUID: 007ed5b1e0a375642808b86c2ca21eb3
+    m_Address: CinturonPurpura_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00cae1fcbd3c0b84caddd38b00809d0c
+    m_Address: LogrosDiamantes_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02208018b7679284b801720e6129d4fc
+    m_Address: SaintCarloAcutis_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02b3c2d6525945f4a9786b9ea65e7bef
+    m_Address: Reina_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c0ec59d0b7c1084987d5ddc22f4e34a
+    m_Address: Corazon_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c54e328c51891d4d9b423c2eecc72c8
+    m_Address: GuerreroAmarillo_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e53a59ac49de3649b8d07394a480e05
+    m_Address: Level_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0eb61a5bb4bdf014e9f2b4fa592330c1
+    m_Address: TutorialBotones_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1191d7c912a9db54a89cab04bb0bb44c
+    m_Address: EscudoLegendario_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19ac5c8465fd47a4b8acd94d5f44bfbc
+    m_Address: LogrosReinaNegras_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a97ccfaecb22bc4991f093b603e0128
+    m_Address: PocimaNegra_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bc665ff001b97a4c83bbd9618bd039b
+    m_Address: Cofre del Reino_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c0bc6b3edbad3c4f9fee78e27e7e07e
+    m_Address: Distinciones3_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cb84b3db02bd2041bbf2dbef195a5f5
+    m_Address: EmpujadorIzquierda_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cc2c2cec5e0de74fbf587a56130f06c
+    m_Address: LogrosPeonesRojos_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d67998c468dc514d87716cbab50cb01
+    m_Address: PocimaGris_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1eec3700c2f915646bfb42efbddc7a4a
+    m_Address: Alfil Rojo_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20597c03bf877cc49b1414e1cb30a98f
+    m_Address: Distinciones1_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 220555c27cef6054aa6d8282e95e1c8a
+    m_Address: U_MainMenu_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23e4fb1db42bbb040a384179e42572ab
+    m_Address: LogrosCaballoNegro_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 293ce84f1e8f3a14cb57bc6838a8a470
+    m_Address: Tutorial_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 297bba613e8e1bc4eaa20cef32690647
+    m_Address: Moneda Falsa_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 304a5eefc79c3d743966ddab3c87f9c5
+    m_Address: Llave_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32a59e2d26df3094eba4a3bb4dd19ff4
+    m_Address: Donaciones_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34341b894a953b24a9ca2fbe3168b69d
+    m_Address: FragmentosLegendarios_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3450c9a104b5b4f4dbf7b9a6ef0bc792
+    m_Address: LogrosCoronas_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3715fea50b641d4499af1824bd9630fc
+    m_Address: LogrosTorresNegras_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 372019be797e1054a8c93ee48fc84d4e
+    m_Address: LogrosTorresRojas_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3745ed302e8069f48a0772a0e7e33c2a
+    m_Address: PanelResultUI_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37d621c1b409aeb45b7aee70ccd4df93
+    m_Address: PlayGameSlots_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b0d634207da1894482b2c03acda75ac
+    m_Address: Codex_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cda005b2475bb74cb626eb3ad0c1d65
+    m_Address: NivelesDesafio_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ef613d7bf7061042a829e5442a97d48
+    m_Address: Home_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40ba20a29dcb978428cef6853e7413dc
+    m_Address: LogrosReinaRoja_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 416184878aad80a438f3c8727ea2cfb4
+    m_Address: Liberador_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42dab73e89002af4280410cb25d7d60a
+    m_Address: PocimaFucsia_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4448b4ec5dceb5b428adef117f539251
+    m_Address: Peon Rojo_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45af490d1bad40b4799de65089752dc5
+    m_Address: Atraccion_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4640007adaa683246a062f587974e229
+    m_Address: LogrosAlfilesNegros_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 481053ad27b7add4089bce1eeba32c84
+    m_Address: Settings_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 482bddf1dfe923f45a509c11a5ed8d97
+    m_Address: LogroMonedasdelReino_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b3d69af63c6874459f8538183c8a4db
+    m_Address: LogrosCondecoracion1_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d6c9f753eef09a4a8b54e3b4972b05b
+    m_Address: Score6to10_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fdbe14e85731974c826d09f02965416
+    m_Address: LogrosTrofeos_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50391f4711e47f048bcf0c356f0cab0d
+    m_Address: Caballo_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5209e49b42f66c84b808030c6ad981a8
+    m_Address: DoorFinalPanel_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 537e33c7a482c8e45b31ebcd2a548475
+    m_Address: TheGarden_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55428e60da01e7e4bb7cc38c1a17331a
+    m_Address: PocimaRoja_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 584fdf57be4c46044b035df44bd575ea
+    m_Address: UltimosNiveles_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61e07cd38aec10f4088d877103954c06
+    m_Address: Llavero_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 659828e9a37cbc54289899e4045601f6
+    m_Address: Trofeos_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6894dddd6e70c514b9aae3d017ff30f5
+    m_Address: EmpujadorArriba_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 695defd654132b344862f89ea8e5926c
+    m_Address: Anillo Efrit_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d30f7e84b871b7499c405c75c8fed43
+    m_Address: LogroBolsasdelReino_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e0dbccb4ec3d8244bbf950c7d09473e
+    m_Address: Vortex_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e53a969f7a4932498be2c46132dfe76
+    m_Address: Username_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6eea1f5fd0adf2940894933e7097a174
+    m_Address: FeedBackUsername_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f495f72d76a664408dd41444c5654bd
+    m_Address: BonusdeTrofeo_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71b20113185d19f419bdc9d9e52411fe
+    m_Address: Torre_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72105f6a23d7f0c4e878ff9ae05b98f0
+    m_Address: LogrosLlaves_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 728e6bd1034215842a434ae68fadf852
+    m_Address: EmpujadorAbajo_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 736fc8f63e1f51c45a5ff4d6bbea449e
+    m_Address: Bolsa del Reino_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7373cb6f2c31ae042a08506a756b3b4e
+    m_Address: Alfil_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b524a38addcbc64d9e5de8c194bec57
+    m_Address: Fortuna_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e0f7c0537900bf4c90eba7152471dbf
+    m_Address: Diamante_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fd1365228759774ca96717d04c1569d
+    m_Address: Torre Roja_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82d169ef849c65d4495d31b0ad6e1137
+    m_Address: Interrupcion_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82eb71c198f429a4abd21d2c71183c45
+    m_Address: Caballo Negro_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83fd1734edfa6554794d686064a0049c
+    m_Address: LogroCaballosRojos_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8540c02699911c64789e6847432cfc08
+    m_Address: AlfilNegroHonors_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85c15a19fc9dc5f4cb2aa4eae8174c58
+    m_Address: GameHome_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86a95092b6eddfb4ab18e09e0db89163
+    m_Address: PocimaVerde_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8998386dc0ca45242b5d4348b9108c3b
+    m_Address: Caballo Rojo_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c245676c8423f64fab0313ab40680cc
+    m_Address: Moneda del Reino_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d76bd634cbfa6f409717f87d84779e6
+    m_Address: Distinciones2_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e24c25240513ca4a85f55b34c0358f1
+    m_Address: ElPeonValeOro_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f1e984a88757f74881d819fa41587e6
+    m_Address: Condecoraciones_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 902a393d2fc250c4188e32b82dc82d81
+    m_Address: Reloj Dorado_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90808c2c7bb6a074285531be05673da6
+    m_Address: CorazonGris_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 974e395d210656e4faead9ae4461585f
+    m_Address: Expansion_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 986677c02a11125469938d689034a077
+    m_Address: HitosdeScore_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d366f9f7c245924ba81c3312bf1be95
+    m_Address: Cinematica2_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f984b2de523cfb45af6ea61c9ab41d9
+    m_Address: Rey_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2c5d70e3c629bd47a886179e8da8b32
+    m_Address: CombatienteNaranja_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3a7622b70850494a9381d24b205a765
+    m_Address: Lampara Magica_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a54b0643d41b9e3418222797fc55069b
+    m_Address: Angeles_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a595e82911a40d74192c3fb6c6dab8c1
+    m_Address: EstrellaNegra_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a67cb06a608087f4a8045bdd2a5fd3b0
+    m_Address: Creditos_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7237d0a41600ef4d8e4deab6d83e309
+    m_Address: Torre Negra_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a823cf7173fd5ad4badb85eebc296870
+    m_Address: DefensorVerde_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a825bdaaa1910df4c8cb690b7c11838e
+    m_Address: RelojRojo_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af023ea5770bce04dbb390ec9e8bb781
+    m_Address: Score11to15_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4cecf146026ee547ac6609561333abb
+    m_Address: KingdomCode_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b80ea9505450c014196d778cf79638a2
+    m_Address: ReinaNegraHonors_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbb7405710812df42b28cd93d92087df
+    m_Address: ReinaNegra_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1b7e0b953482604f8072ddd99bcc2f0
+    m_Address: Pergamino_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4277c1ec25891d4588b7c71bd09adc9
+    m_Address: Cinematica1_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c53a204157ef8d946aff94430261103e
+    m_Address: Candado_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca68c6ebd18e7c24680d3fda2249275d
+    m_Address: Muro_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc281993633e0024383a8edbd09c6be9
+    m_Address: Alfil Negro_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfbe1af6c2281f14691d5a3123da2834
+    m_Address: TorreNegraHonors_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0b6b9c5627f6b546b0c7cf55f0a51ad
+    m_Address: Peon_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d19f079be12a9874ab72558e6a5143a2
+    m_Address: EmpujadorDerecha_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d72b571a794043d42ae56f3971e00d61
+    m_Address: CaballoNegroHonors_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d74d993085dbd884eb3a6ead982a1009
+    m_Address: ObtencionPergamino_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dca623720de8470428ae006d80f7d11a
+    m_Address: PocimaPurpura_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df358468cadbc0945bd77516aca90603
+    m_Address: LevelQuit_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0ca4f7d6d08b7546a854584898a3678
+    m_Address: LogrosPergaminos_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1199ae3d0fb0d145b368ac5c57e6e0f
+    m_Address: LogrosAlfilesRojos_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e754ca2975cf79a48b4e529a7bcf0fc6
+    m_Address: Score5to9_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7a6d29b8ab8dcb479e9eca2912a35a0
+    m_Address: PocimaAzul_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7c4296c1dcda124cafee043af3b5014
+    m_Address: PergaminosNotificaciones_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8004ded31cce734388de22163c331ce
+    m_Address: Reina Roja_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e921f5f32bceffe44923c66012ad779e
+    m_Address: Estrella del Reino_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea6cc254221bba842bc4fb68fe643d5c
+    m_Address: Corona del Reino_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eda314ee3c53f914fbbc8bd181226e15
+    m_Address: PocimaDorada_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee996d9a7a7689c4dab0b16eb4738fd6
+    m_Address: Talisman_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f239e6922b75e6d4d8683896f3af7af5
+    m_Address: LogrosCofres_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4662c49210ebd046b637e73c167eb8a
+    m_Address: EstrategaBlanco_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8772caf363544141b06efbe178be313
+    m_Address: Arcangeles_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb990eac2380eb840936bed5035932d3
+    m_Address: Espada_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff2238df2a1e00847a0fdea5d578619f
+    m_Address: Notificaciones120_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: cdd2ec66ff061e14185298ed6fb0ff94, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f99a835a82ae79d42a0b8d34f151cdc8, type: 2}
+    - {fileID: 11400000, guid: 91620d9077a738b4b83a49b963605399, type: 2}

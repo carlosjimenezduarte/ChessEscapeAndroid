@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: LogrosLlaves
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 46538dff8cf17084bb0896bdb1e889af, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 5bef8b35712688f449c06b291807b913, type: 2}
+  - {fileID: 11400000, guid: de42991c66a423a448fb6b5a3d8d0024, type: 2}
+  - {fileID: 11400000, guid: d67ecb2b7eb903d4a832ff803440ebce, type: 2}
+  - {fileID: 11400000, guid: 996136f14f74f584b85739d1bb4e9b1c, type: 2}
+  - {fileID: 11400000, guid: 72105f6a23d7f0c4e878ff9ae05b98f0, type: 2}
+  - {fileID: 11400000, guid: 46d0ac84bd1a3c443a2dedce242ec6f3, type: 2}
+  - {fileID: 11400000, guid: 98fa867a505e78848b8a1af374594ace, type: 2}
+  - {fileID: 11400000, guid: 86ed2f8b8b9128e43818e1c509c4b816, type: 2}
+  - {fileID: 11400000, guid: f47bf3807cfce9d4db134772390c5a31, type: 2}
+  - {fileID: 11400000, guid: 10b2f5a8e57893847a6afb4b3f88fc58, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

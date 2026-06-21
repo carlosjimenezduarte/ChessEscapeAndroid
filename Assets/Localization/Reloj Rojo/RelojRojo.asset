@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: RelojRojo
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 2fb9a6c87c571974aa62bb9563ae929d, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: a279467ac38ae0948a0bba263dd87596, type: 2}
+  - {fileID: 11400000, guid: f589d6c7dc6b5ee45b51a420cc8a1730, type: 2}
+  - {fileID: 11400000, guid: aaa885ce6c3b69346ab840a1fbb9f4c8, type: 2}
+  - {fileID: 11400000, guid: f5cfac0fc570b4c498e5a9926845925c, type: 2}
+  - {fileID: 11400000, guid: a825bdaaa1910df4c8cb690b7c11838e, type: 2}
+  - {fileID: 11400000, guid: 770e5eeeda8b87940b1ceb70fe56d5c8, type: 2}
+  - {fileID: 11400000, guid: 40c8ea49eb8525c42a941cfb1e259d9b, type: 2}
+  - {fileID: 11400000, guid: 347d99ea9bec61b46938f4e09116c05b, type: 2}
+  - {fileID: 11400000, guid: dc796e41c3ae3bc419cee7dfe9e1caef, type: 2}
+  - {fileID: 11400000, guid: 4904e4b53377fbf4aa2b17fb993a51d1, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

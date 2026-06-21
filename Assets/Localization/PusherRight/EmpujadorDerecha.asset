@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: EmpujadorDerecha
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 3f6084f19c144fc40a76a4fc8edb9b9a, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 750bf5161e8c7ef4faa27557d91449eb, type: 2}
+  - {fileID: 11400000, guid: a7b66e4619438d147a6372156323de1f, type: 2}
+  - {fileID: 11400000, guid: 7e21781c16d501d4a99ca8da755da964, type: 2}
+  - {fileID: 11400000, guid: 7c6a16aa029e21c418446109bd42c9c3, type: 2}
+  - {fileID: 11400000, guid: d19f079be12a9874ab72558e6a5143a2, type: 2}
+  - {fileID: 11400000, guid: 6ea82b40b4eec9c498b7b2fe69c285a8, type: 2}
+  - {fileID: 11400000, guid: db38ea71681f9234396cdaa7c36fa516, type: 2}
+  - {fileID: 11400000, guid: a800063b43b4d1844bc76a92f755453e, type: 2}
+  - {fileID: 11400000, guid: 6c6743ca6ed93c04b92afd5091aa154a, type: 2}
+  - {fileID: 11400000, guid: a4c69e36e12aca043b912394b4dc3f65, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

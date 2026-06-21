@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Torre Roja
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 06987129ac80f9c4aa886da70ce1f917, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: ffee47cba2fc0fe47b69a3cfa9a4d139, type: 2}
+  - {fileID: 11400000, guid: f8ce0911365230343a1678524aaa5e5e, type: 2}
+  - {fileID: 11400000, guid: e25a4ad7805c9f44595d5fdb87c3f712, type: 2}
+  - {fileID: 11400000, guid: b08c700385da29745a6f57af393a1b9b, type: 2}
+  - {fileID: 11400000, guid: 7fd1365228759774ca96717d04c1569d, type: 2}
+  - {fileID: 11400000, guid: 37feb9a5e09db284ca4222080e3efac8, type: 2}
+  - {fileID: 11400000, guid: a5c5c22c7e73f2746a542dc53d837bc7, type: 2}
+  - {fileID: 11400000, guid: 13a5caddb4bf30d4b8751a19241e8419, type: 2}
+  - {fileID: 11400000, guid: 24bbdfa203d0b9848979d7631ff58d1d, type: 2}
+  - {fileID: 11400000, guid: 65cf3bc3c39c87d43ac395d43b701289, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

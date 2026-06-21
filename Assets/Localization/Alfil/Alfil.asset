@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Alfil
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 70d828c0ccaff8247a3eaf569002f67e, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 6d0d56638fe1f2f42ad9d942e8111408, type: 2}
+  - {fileID: 11400000, guid: b22a4fa170fb2db40a0e0719e5a60896, type: 2}
+  - {fileID: 11400000, guid: d242a5d6350baa249b1810ee1fc93fa5, type: 2}
+  - {fileID: 11400000, guid: 8545d126d716c854ca033528146ca349, type: 2}
+  - {fileID: 11400000, guid: 7373cb6f2c31ae042a08506a756b3b4e, type: 2}
+  - {fileID: 11400000, guid: d3a3d6851ee99754e9d37fc66015c793, type: 2}
+  - {fileID: 11400000, guid: 9d9361f5fd944434dad41309c89186af, type: 2}
+  - {fileID: 11400000, guid: 88e545af6441e964b820c12366bd363f, type: 2}
+  - {fileID: 11400000, guid: 75eb7ba86870fa94a9b5343ac6659d0c, type: 2}
+  - {fileID: 11400000, guid: d7a647c6f5bcc3c4c8ac2011be812cbe, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

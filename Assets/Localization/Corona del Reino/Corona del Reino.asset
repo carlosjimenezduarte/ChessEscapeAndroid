@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Corona del Reino
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: aac5fcd86e8713649a617cfb3957d5cd, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 84b32b97201214d4c887a98738fd40a6, type: 2}
+  - {fileID: 11400000, guid: 097a3727e2a53c142ae970ea1cb38ba4, type: 2}
+  - {fileID: 11400000, guid: fdaf36e6cabcc8a4c84fa6af30ccdc90, type: 2}
+  - {fileID: 11400000, guid: cd938fbfc22ace74586e293a01d213d9, type: 2}
+  - {fileID: 11400000, guid: ea6cc254221bba842bc4fb68fe643d5c, type: 2}
+  - {fileID: 11400000, guid: 55f3e0f316afafd4d96c1defb9ffe925, type: 2}
+  - {fileID: 11400000, guid: c14ed315faa143a4293eb70b61b0264f, type: 2}
+  - {fileID: 11400000, guid: db56325c0c6b71244b1b9c79461ae59a, type: 2}
+  - {fileID: 11400000, guid: d7c7914ba3f9fd4439a57a5df168729b, type: 2}
+  - {fileID: 11400000, guid: 7a9dc67deec32794b81b9863353c4ca3, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

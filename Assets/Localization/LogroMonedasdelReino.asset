@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: LogroMonedasdelReino
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 30663219bdf73bd438a95fb389baa610, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: d9714ebb8856f0c4791bfdd939aa2391, type: 2}
+  - {fileID: 11400000, guid: 003e1f726be49e542993933a6fd49489, type: 2}
+  - {fileID: 11400000, guid: b52d27631e5a4f3489cc1ec7c06b1929, type: 2}
+  - {fileID: 11400000, guid: 9e61aa7cd41771945adde67fb71ca099, type: 2}
+  - {fileID: 11400000, guid: 482bddf1dfe923f45a509c11a5ed8d97, type: 2}
+  - {fileID: 11400000, guid: 5d66368850992e54bac5667c854a6860, type: 2}
+  - {fileID: 11400000, guid: e537b9d4c3f47074b82271d9111867c7, type: 2}
+  - {fileID: 11400000, guid: 66cfb170ad6a02a49aeb539ab096d98c, type: 2}
+  - {fileID: 11400000, guid: 8b116de367b55f042b0b2b2ef487da53, type: 2}
+  - {fileID: 11400000, guid: 7c5e45407e4812748b63c78f10937971, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Interrupcion
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 21c1a3b5cbb6b06428b2cb621c1b0057, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 4fb33d99f3a68af4097eccde00974087, type: 2}
+  - {fileID: 11400000, guid: 4108d9f8ce8d7cf49b050c956e717b32, type: 2}
+  - {fileID: 11400000, guid: faf6bfd0e663f7149a575e7b4978c7c6, type: 2}
+  - {fileID: 11400000, guid: aee5dd9d5fcc2904a895963df2b4106d, type: 2}
+  - {fileID: 11400000, guid: 82d169ef849c65d4495d31b0ad6e1137, type: 2}
+  - {fileID: 11400000, guid: f534406e56b8dc94bb6b8f58dd7e5892, type: 2}
+  - {fileID: 11400000, guid: 7e7ef3c6d8ef2da4f879122e65795f9d, type: 2}
+  - {fileID: 11400000, guid: 62f0f3d674d6565498e318a953a28314, type: 2}
+  - {fileID: 11400000, guid: 82038aec0530130468bd354534566680, type: 2}
+  - {fileID: 11400000, guid: 6a4dc9de704f4274884dc218a211ff4b, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

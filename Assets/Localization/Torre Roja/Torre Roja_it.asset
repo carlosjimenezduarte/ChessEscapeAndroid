@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Torre Roja_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 06987129ac80f9c4aa886da70ce1f917, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10644238336
+    m_Localized: Torre Rossa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103514517504
+    m_Localized: Raggio di movimento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153443512320
+    m_Localized: "Raggio d\u2019attacco letale"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 200218390528
+    m_Localized: Attacchi a distanza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252601053184
+    m_Localized: Spostamento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292128174080
+    m_Localized: Verticale e orizzontale.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330845794304
+    m_Localized: Quando attacca a distanza toglie 1 PM al Re. Se si tratta di Pedone,
+      Cavallo, Alfiere, Torre o Regina, toglie anche 1 PA al Re.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

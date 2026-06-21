@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: KingdomCode_ko
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: d017ceb777f1c644187d3f576fc0f91e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8213647360
+    m_Localized: "\uC9C4\uC815\uD55C \uC790\uC720\uB294 \uB124 \uB9C8\uC74C\uC5D0
+      \uC788\uB2E4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48143421440
+    m_Localized: "\uC778\uB0B4\uB294 \uD798\uC774\uB2E4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65595920384
+    m_Localized: "\uC601\uD63C\uC740 \uBC30\uC2E0\uB2F9\uD558\uC9C0 \uC54A\uB294\uB2E4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88714924032
+    m_Localized: "\uC9C4\uC2E4\uB41C \uAC83\uC740 \uB4DC\uB7EC\uB098\uB294 \uAC83\uC744
+      \uB450\uB824\uC6CC\uD558\uC9C0 \uC54A\uB294\uB2E4"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

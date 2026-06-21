@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Distinciones2_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 581769532ece95a4bacca6ee2243c48d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5009199104
+    m_Localized: Maestro de Tableros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18875568128
+    m_Localized: Maestro del Silencio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30850306048
+    m_Localized: Maestro Indomable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43605184512
+    m_Localized: "Guardi\xE1n del Reino"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56557195264
+    m_Localized: "Guardi\xE1n del Umbral"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69274324992
+    m_Localized: "Guardi\xE1n de la Luz"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

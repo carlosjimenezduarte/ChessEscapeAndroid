@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cinematica2_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 96de11300926c0d4e9b8e616013fe5be, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10415656960
+    m_Localized: "Al llegar a la sala 100, el hombre recibi\xF3 una visita inesperada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13158731776
+    m_Localized: "El Genio lo felicit\xF3 por su compromiso y lo anim\xF3 a perseverar
+      hasta el final."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17453699072
+    m_Localized: "Entonces le habl\xF3 de la existencia de un Cofre Legendario\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20037390336
+    m_Localized: "\u201C\u2026un tesoro que solo puede abrirse con los tres fragmentos
+      de la Llave Sagrada.\u201D afirm\xF3 el Genio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22855962624
+    m_Localized: "\u201CSi logras abrir ese Cofre, dejar\xE1s de ser solo una Ficha\u2026
+      y ser\xE1s un aut\xE9ntico Rey Coronado\" asegur\xF3 el Genio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27385810944
+    m_Localized: "Con esa promesa, el hombre renov\xF3 sus fuerzas y acept\xF3 los
+      desaf\xEDos que a\xFAn lo esperaban."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

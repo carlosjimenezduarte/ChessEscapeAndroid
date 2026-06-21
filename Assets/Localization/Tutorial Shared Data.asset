@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Tutorial Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Tutorial
+  m_TableCollectionNameGuidString: 4d7c9e7db44e66f4aa84fe9d686bf156
+  m_Entries:
+  - m_Id: 230618705920
+    m_Key: tut_welcome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 397500686151680
+    m_Key: tut_universe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237124071424
+    m_Key: tut_chess_map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 240546623488
+    m_Key: tut_goal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1643788775424
+    m_Key: tut_startpos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1674725961728
+    m_Key: tut_mp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1708913733632
+    m_Key: tut_select_highlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739418906624
+    m_Key: tut_ally_similar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4847662411776
+    m_Key: tut_toggle_range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4782298378240
+    m_Key: tut_start_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5022481002496
+    m_Key: tut_eliminate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5100088209408
+    m_Key: tut_enemy_ranges
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5127837724672
+    m_Key: tut_ap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5158242234368
+    m_Key: tut_turn_time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188302811136
+    m_Key: tut_lives
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5223002288128
+    m_Key: tut_items_stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5251418697728
+    m_Key: tut_codex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5284742443008
+    m_Key: tut_notifications
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5317822918656
+    m_Key: tut_outro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262470894759936
+    m_Key: tut_range_attacks
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4086864391145259008
+  references:
+    version: 2
+    RefIds:
+    - rid: 4086864391145259008
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1756061658901

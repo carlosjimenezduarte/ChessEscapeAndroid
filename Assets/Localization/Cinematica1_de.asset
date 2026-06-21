@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cinematica1_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: c2d267b057669f54da106f121bf5e76b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 164489220096
+    m_Localized: Es war einmal ein Mann, der alles verlor und viele Jahre ziellos
+      umherwanderte.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170336079872
+    m_Localized: Zwischen alten Ruinen fand er eine goldene Lampe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 172420648960
+    m_Localized: "Daraus erschien ein strahlender Dschinn, der ihm anbot, einen einzigen
+      Wunsch zu erf\xFCllen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177554477056
+    m_Localized: "\u201EIch will K\xF6nig sein. Ich will ein eigenes Reich\u201C,
+      antwortete der Mann."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181543260160
+    m_Localized: "Der Dschinn erwiderte: \u201EDein Wunsch soll erf\xFCllt werden.
+      Aber kein Reich wird ohne Pr\xFCfungen gegeben.\u201C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 184470884352
+    m_Localized: "\u201EWenn du wirklich K\xF6nig werden willst, tritt jetzt in diesen
+      Raum ein. Dein Reich erwartet dich\u201C, lud ihn der Dschinn ein."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186479955968
+    m_Localized: "Aufgeregt betrat der Mann den ersten Raum, nur um entt\xE4uscht
+      festzustellen, dass er voller Schachfiguren war."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188791017472
+    m_Localized: "Und dann verwandelte der Dschinn den Mann in einen Schachk\xF6nig,
+      dessen Haut mit dem Brett verschmolz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 190506487808
+    m_Localized: "Zweihundert Pr\xFCfungsr\xE4ume erwarten den K\xF6nig. Zweihundert
+      Pr\xFCfungen, um die \xDCberzeugung seines Wunsches zu messen. Zweihundert
+      Pr\xFCfungen, um sein eigenes Reich zu erobern."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 193123733504
+    m_Localized: "Wirst du diesem Mann helfen, ein wahrer K\xF6nig zu werden? Wirst
+      du in der Lage sein, ihn zu f\xFChren?"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

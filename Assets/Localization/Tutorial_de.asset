@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 4d7c9e7db44e66f4aa84fe9d686bf156, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 230618705920
+    m_Localized: Willkommen im ChessEscape-Tutorial.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237124071424
+    m_Localized: "ChessEscape entfaltet sich \xFCber 204 Spielstufen, in denen das
+      traditionelle Schachbrett die B\xFChne ist, auf der du deinen Verstand herausfordern
+      wirst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 240546623488
+    m_Localized: "Dein Ziel ist es, den K\xF6nig zum oberen rechten Feld zu bringen,
+      wo sich die T\xFCr befindet. Dieses Feld entspricht H8 auf einem traditionellen
+      Schachbrett."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1643788775424
+    m_Localized: "Der K\xF6nig beginnt immer unten links, was dem Feld A1 entspricht."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1674725961728
+    m_Localized: "Von Natur aus hat der K\xF6nig 3 Bewegungspunkte (BP) pro Zug."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1708913733632
+    m_Localized: "Jedes Mal, wenn du ihn ausw\xE4hlst, wird seine Bewegungsreichweite
+      gr\xFCn markiert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739418906624
+    m_Localized: "Dasselbe geschieht, wenn du den Bauern oder eine andere verb\xFCndete
+      Figur wie den Springer, den L\xE4ufer, den Turm oder die Dame ausw\xE4hlst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4847662411776
+    m_Localized: Die Anzeige der Bewegungsreichweite kann deaktiviert werden, indem
+      du erneut auf dieselbe Figur klickst.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4782298378240
+    m_Localized: "Wenn du auf den Button \u201EStart\u201C dr\xFCckst, ist der K\xF6nig
+      standardm\xE4\xDFig ausgew\xE4hlt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5022481002496
+    m_Localized: "Der K\xF6nig und die verb\xFCndeten Figuren k\xF6nnen feindliche
+      Figuren eliminieren, wenn diese in ihrer Angriffsreichweite sind. Ein fuchsienfarbenes
+      Feld leuchtet auf, wenn dies m\xF6glich ist."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5100088209408
+    m_Localized: "Bei feindlichen Figuren kannst du durch Anklicken ihre T\xF6dliche
+      Angriffsreichweite und ihre Fernangriffsreichweite sehen. Klicke erneut, um
+      die Anzeige auszuschalten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5127837724672
+    m_Localized: "Von Natur aus hat der K\xF6nig 5 Aktionspunkte (AP) pro Zug. Diese
+      sind notwendig, damit er den verb\xFCndeten Figuren Bewegungen befehlen kann."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5158242234368
+    m_Localized: "Jeder Zug dauert 30 Sekunden. Wenn du eine Goldene Uhr erh\xE4ltst,
+      gewinnst du 15 zus\xE4tzliche Sekunden f\xFCr diesen Zug."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188302811136
+    m_Localized: "Der K\xF6nig hat 7 Leben (Z\xFCge), die durch Items erh\xF6ht oder
+      verringert werden k\xF6nnen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5223002288128
+    m_Localized: "Du wirst auch Items finden, die dem K\xF6nig AP und BP geben oder
+      die Bewegungsreichweite der verb\xFCndeten Figuren vergr\xF6\xDFern."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5251418697728
+    m_Localized: "Weitere Informationen \xFCber Objekte und Figuren findest du im
+      ChessEscape-Codex."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5284742443008
+    m_Localized: "Die Benachrichtigungsoberfl\xE4che informiert dich jedes Mal, wenn
+      du eine neue Seite erh\xE4ltst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5317822918656
+    m_Localized: "Das ist alles! Beginne jetzt das Abenteuer, den K\xF6nig bis in
+      den Endraum zu begleiten.\nDu schaffst das!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262470894759936
+    m_Localized: "Wenn feindliche Figuren aus der Ferne angreifen, verringern sie
+      die BP des K\xF6nigs oder die AP, falls es sich um eine verb\xFCndete Figur
+      handelt. Du wirst es an der Bedrohungslinie erkennen, die von der feindlichen
+      Figur projiziert wird."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 397500686151680
+    m_Localized: Dies ist die visuelle Zusammenfassung der Objekte, die das Universum
+      von ChessEscape formen.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

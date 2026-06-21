@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Muro
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 8731f92daa420be4ca90a8c2aaa3a77b, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: aa12c4b999c8b9849b38ad72e7f462c4, type: 2}
+  - {fileID: 11400000, guid: 929695b05595df94892deb2ce1acfdf8, type: 2}
+  - {fileID: 11400000, guid: 6ed51ee66ab5b4644a4143575edee24d, type: 2}
+  - {fileID: 11400000, guid: 5c07546297bfee84fbd42865b3ff3e1e, type: 2}
+  - {fileID: 11400000, guid: ca68c6ebd18e7c24680d3fda2249275d, type: 2}
+  - {fileID: 11400000, guid: 4a0c3cdc83be33d4aae9e885c012ee61, type: 2}
+  - {fileID: 11400000, guid: f6b830a83920dac46b502d82ce5e04bd, type: 2}
+  - {fileID: 11400000, guid: 65f0df3464ad8d14fb03acb235cf4aaf, type: 2}
+  - {fileID: 11400000, guid: fa83fd671167c4c49a75895a2b95ca56, type: 2}
+  - {fileID: 11400000, guid: 10f2f47b769b8e947a612c1095a342f4, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

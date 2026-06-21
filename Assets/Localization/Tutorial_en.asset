@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4d7c9e7db44e66f4aa84fe9d686bf156, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 230618705920
+    m_Localized: Welcome to the ChessEscape Tutorial.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237124071424
+    m_Localized: ChessEscape unfolds across 204 levels, in which the traditional
+      chessboard becomes the stage where you will challenge your intelligence.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 240546623488
+    m_Localized: Your goal is to guide the King to the top-right square, where the
+      door is located. This square corresponds to H8 on a traditional chessboard.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1643788775424
+    m_Localized: The King always starts on the bottom-left square, equivalent to
+      A1 on a traditional chessboard.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1674725961728
+    m_Localized: By default, the King has 3 Movement Points (MP) each turn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1708913733632
+    m_Localized: Whenever you select him, his movement range will appear highlighted
+      in green.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739418906624
+    m_Localized: The same will happen if you choose the Pawn or another Allied Piece
+      such as the Knight, Bishop, Rook, or Queen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4847662411776
+    m_Localized: The movement range display can be turned off by tapping the same
+      piece again.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4782298378240
+    m_Localized: "When you press the \u201CStart\u201D button, the King will be selected
+      by default."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5022481002496
+    m_Localized: The King and Allied Pieces can eliminate Enemy Pieces if they are
+      within their attack range. A fuchsia square will light up when this option
+      is available.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5100088209408
+    m_Localized: For Enemy Pieces, tapping on them will reveal their Lethal Attack
+      Range and Ranged Attack Range. Tap again to hide their range.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5127837724672
+    m_Localized: By default, the King has 5 Action Points (AP) each turn. These are
+      needed for the King to command Allied Pieces to move.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5158242234368
+    m_Localized: Each turn lasts 30 seconds. If you obtain a Golden Clock, you gain
+      15 extra seconds for that turn.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188302811136
+    m_Localized: The King has 7 Lives (turns), which can be increased or decreased
+      with items.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5223002288128
+    m_Localized: You will also find items that grant extra AP and MP to the King,
+      or increase the movement range of Allied Pieces.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5251418697728
+    m_Localized: 'More information about items and pieces can be found in the ChessEscape
+      Codex. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5284742443008
+    m_Localized: The notification interface will inform you whenever you obtain a
+      new page.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5317822918656
+    m_Localized: "That\u2019s it! Now you can begin the adventure of guiding the
+      King to the Final Room.\nYou can do it!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262470894759936
+    m_Localized: When Enemy Pieces attack from a distance, they reduce MP from the
+      King or AP if it is an Allied Piece. You will notice it by the threat line
+      projected by the Enemy Piece.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 397500686151680
+    m_Localized: This is the visual summary of the objects that shape the universe
+      of ChessEscape.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

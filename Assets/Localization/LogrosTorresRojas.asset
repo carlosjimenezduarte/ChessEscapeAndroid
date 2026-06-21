@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: LogrosTorresRojas
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 2be119799ca8e0e42b579062e9a5e7c0, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: c4682c9c951c2e141ba16edeee42a99f, type: 2}
+  - {fileID: 11400000, guid: c25e17a4be882cd40922417f135f8c4e, type: 2}
+  - {fileID: 11400000, guid: 4b7631a1406af194bbe7937751ad4afd, type: 2}
+  - {fileID: 11400000, guid: c2ef560880f871640a41b4d0792247f7, type: 2}
+  - {fileID: 11400000, guid: 372019be797e1054a8c93ee48fc84d4e, type: 2}
+  - {fileID: 11400000, guid: f4d0a8d4ced77b14ab543e949497dd77, type: 2}
+  - {fileID: 11400000, guid: b5417659382def54a9e72b4654a06987, type: 2}
+  - {fileID: 11400000, guid: d48598b6ba9fa184bba502f89deebeb4, type: 2}
+  - {fileID: 11400000, guid: a44e11927ab044a4bb3d52340006f050, type: 2}
+  - {fileID: 11400000, guid: 678c3364687a009419d239fcb6f0247d, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

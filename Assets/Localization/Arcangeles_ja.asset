@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Arcangeles_ja
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ja
+  m_SharedData: {fileID: 11400000, guid: a80abd47fbe7e0549871fa4fff10937c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5999054848
+    m_Localized: "\u540C\u3058\u30DE\u30C3\u30D7\u3067\u5168\u3066\u306E\u5473\u65B9\u306E\u99D2\u3092\u30D7\u30ED\u30E2\u30FC\u30B7\u30E7\u30F3\u3059\u308B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 656783300513792
+    m_Localized: "\u30ED\u30B0\u30A2\u30A6\u30C8\u3057\u3066\u3082\u3088\u308D\u3057\u3044\u3067\u3059\u304B\uFF1F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 660648464896000
+    m_Localized: "\u30E9\u30F3\u30AF:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 660631171780608
+    m_Localized: "\u99D2\u3092\u5012\u3057\u305F\u6570"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663902309470208
+    m_Localized: "\u30BF\u30A4\u30C8\u30EB\u306E\u307F\u8868\u793A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 664699525025792
+    m_Localized: "\u30C8\u30ED\u30D5\u30A3\u30FC\u306E\u307F\u8868\u793A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 664941486034944
+    m_Localized: "\u52F2\u7AE0\u306E\u307F\u8868\u793A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 665597475180544
+    m_Localized: "\u5B9F\u7E3E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 665610796290048
+    m_Localized: "\u79F0\u53F7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 665633042878464
+    m_Localized: "\u30C8\u30ED\u30D5\u30A3\u30FC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 665648981233664
+    m_Localized: "\u52F2\u7AE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 667642512953344
+    m_Localized: "\u901A\u77E5"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

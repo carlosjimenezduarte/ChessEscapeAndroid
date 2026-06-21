@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: DefensorVerde
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 302e2859f41c9e8478592945959703b0, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: d8a79cfe5ab964e499731a08bfadc8a1, type: 2}
+  - {fileID: 11400000, guid: 987eaa03f09e81d4e8faf158266ace58, type: 2}
+  - {fileID: 11400000, guid: b47d9b6319c98634097c9b78f63b10e2, type: 2}
+  - {fileID: 11400000, guid: 7e77ae8b3c2c39c41ab13ced903f6ab4, type: 2}
+  - {fileID: 11400000, guid: a823cf7173fd5ad4badb85eebc296870, type: 2}
+  - {fileID: 11400000, guid: 79ea5712def0ed94f92c1812e769c8ea, type: 2}
+  - {fileID: 11400000, guid: 1dfdc81c5f670e34b923fadac67440ab, type: 2}
+  - {fileID: 11400000, guid: 8e7238a7d3e4cdd469f8e37704df1abc, type: 2}
+  - {fileID: 11400000, guid: 40fc268b4230afa46aab8c664c835822, type: 2}
+  - {fileID: 11400000, guid: ff96f8e8b5347624ea572d618416c982, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

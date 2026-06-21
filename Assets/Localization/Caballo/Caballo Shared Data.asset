@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Caballo Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Caballo
+  m_TableCollectionNameGuidString: d16a5489caad8504c81dae97c560b071
+  m_Entries:
+  - m_Id: 8391897088
+    m_Key: Knight_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14427500544
+    m_Key: Knight_movement_range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17615171584
+    m_Key: Knight_attack_range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 238134898688
+    m_Key: Knight_movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273870368768
+    m_Key: Knight_movement_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333060386816
+    m_Key: Knight_movement_attacks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395068977152
+    m_Key: Knight_attacks_movement_descriptio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 565089284096
+    m_Key: Knight_description_PA
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4086864318393483349
+  references:
+    version: 2
+    RefIds:
+    - rid: 4086864318393483349
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1755788358618

@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 4d7c9e7db44e66f4aa84fe9d686bf156, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 230618705920
+    m_Localized: Bem-vindo ao Tutorial do ChessEscape.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237124071424
+    m_Localized: "ChessEscape decorre ao longo de 204 n\xEDveis de jogo, nos quais
+      o tabuleiro de xadrez tradicional ser\xE1 o palco onde desafiar\xE1s a tua
+      intelig\xEAncia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 240546623488
+    m_Localized: "O teu objetivo ser\xE1 levar o Rei at\xE9 a casa superior direita,
+      onde est\xE1 localizada a porta. Essa casa corresponde a H8 num tabuleiro de
+      xadrez tradicional."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1643788775424
+    m_Localized: "O Rei come\xE7a sempre na casa inferior esquerda, equivalente a
+      A1."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1674725961728
+    m_Localized: Por natureza, o Rei possui 3 Pontos de Movimento (PM) em cada turno.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1708913733632
+    m_Localized: "Sempre que o selecionares, ver\xE1s o seu alcance de movimento
+      em verde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739418906624
+    m_Localized: "O mesmo acontecer\xE1 se escolheres o Pe\xE3o ou outra Pe\xE7a
+      Aliada, como o Cavalo, o Bispo, a Torre ou a Rainha."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4847662411776
+    m_Localized: "A visualiza\xE7\xE3o do alcance pode ser desligada ao pressionar
+      novamente a mesma pe\xE7a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4782298378240
+    m_Localized: "Ao pressionar o bot\xE3o \u201CIniciar\u201D, o Rei ser\xE1 selecionado
+      por padr\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5022481002496
+    m_Localized: "O Rei e as Pe\xE7as Aliadas podem eliminar Pe\xE7as Inimigas se
+      estiverem dentro do seu alcance de ataque. Uma casa cor-de-rosa se iluminar\xE1
+      quando esta op\xE7\xE3o estiver dispon\xEDvel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5100088209408
+    m_Localized: "No caso das Pe\xE7as Inimigas, ao pressionar sobre elas poder\xE1s
+      ver o Alcance de Ataque Letal e o Alcance de Ataque \xE0 Dist\xE2ncia. Pressiona
+      de novo para desligar essa visualiza\xE7\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5127837724672
+    m_Localized: "Por natureza, o Rei possui 5 Pontos de A\xE7\xE3o (PA) em cada
+      turno. Eles s\xE3o necess\xE1rios para que o Rei possa ordenar o movimento
+      das Pe\xE7as Aliadas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5158242234368
+    m_Localized: "Cada turno tem a dura\xE7\xE3o de 30 segundos. Se obtiveres um
+      Rel\xF3gio Dourado, ganhar\xE1s mais 15 segundos nesse turno."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188302811136
+    m_Localized: O Rei tem 7 Vidas (turnos), que podem aumentar ou diminuir com itens.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5223002288128
+    m_Localized: "Tamb\xE9m encontrar\xE1s itens que concedem PA e PM ao Rei, ou
+      que aumentam o alcance de movimento das Pe\xE7as Aliadas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5251418697728
+    m_Localized: "Mais informa\xE7\xF5es sobre itens e pe\xE7as podem ser encontradas
+      no C\xF3dice de ChessEscape."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5284742443008
+    m_Localized: "A interface de notifica\xE7\xF5es informar\xE1 sempre que obtiveres
+      uma nova p\xE1gina."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5317822918656
+    m_Localized: "\xC9 isso! J\xE1 podes come\xE7ar a aventura de acompanhar o Rei
+      at\xE9 \xE0 Sala Final.\nTu consegues!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262470894759936
+    m_Localized: "Quando as Pe\xE7as Inimigas atacam \xE0 dist\xE2ncia, reduzem PM
+      do Rei ou PA se for uma Pe\xE7a Aliada. Podes not\xE1-lo pela linha de amea\xE7a
+      projetada pela Pe\xE7a Inimiga."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 397500686151680
+    m_Localized: "Este \xE9 o resumo visual dos objetos que d\xE3o forma ao universo
+      de ChessEscape."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

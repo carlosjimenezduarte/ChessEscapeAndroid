@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Alfil Rojo
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 4146beb22a850674fa5948a98abd4b29, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 8fb1a3e13d70d0a4d83efc93f99cdb1c, type: 2}
+  - {fileID: 11400000, guid: a033c5e393d8712499bab76a8a4cd718, type: 2}
+  - {fileID: 11400000, guid: cd88e8cc8d0b7ba4db845fede528b988, type: 2}
+  - {fileID: 11400000, guid: e129997119313f946bc4040be092ca41, type: 2}
+  - {fileID: 11400000, guid: 1eec3700c2f915646bfb42efbddc7a4a, type: 2}
+  - {fileID: 11400000, guid: 4320f17d03ebb004d9e92e39a11d2ce3, type: 2}
+  - {fileID: 11400000, guid: 0c5c1d65d591f4d4ba6319721971b56b, type: 2}
+  - {fileID: 11400000, guid: 536b5f8fe7d517b46bf51d5be740a79d, type: 2}
+  - {fileID: 11400000, guid: c93d799e414d0614e960dbea39aa49f7, type: 2}
+  - {fileID: 11400000, guid: f25e42823c9bbe444830852766085c31, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,61 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /players/{playerId} {
+      allow read, write: if request.auth != null && request.auth.uid == playerId;
+    }
+
+    match /usernames/{username} {
+      allow read: if true;
+      allow write: if request.auth != null;
+    }
+
+    match /bug_reports/{reportId} {
+      allow create: if isValidBugReport();
+      allow read, update, delete: if false;
+    }
+
+    function isValidBugReport() {
+      let data = request.resource.data;
+      return data.keys().hasOnly([
+          'name',
+          'email',
+          'form_language',
+          'player_language',
+          'level',
+          'description',
+          'page_url',
+          'page_path',
+          'user_agent',
+          'status',
+          'source',
+          'created_at'
+        ])
+        && data.name is string
+        && data.name.size() > 0
+        && data.name.size() <= 80
+        && data.email is string
+        && data.email.size() <= 120
+        && data.form_language is string
+        && data.form_language.size() > 0
+        && data.form_language.size() <= 40
+        && data.player_language is string
+        && data.player_language.size() > 0
+        && data.player_language.size() <= 40
+        && (data.level == null || (data.level is int && data.level >= 1 && data.level <= 204))
+        && data.description is string
+        && data.description.size() > 0
+        && data.description.size() <= 3000
+        && data.page_url is string
+        && data.page_url.size() <= 500
+        && data.page_path is string
+        && data.page_path.size() <= 250
+        && data.user_agent is string
+        && data.user_agent.size() <= 500
+        && data.status == 'new'
+        && data.source == 'WebOfficial'
+        && data.created_at == request.time;
+    }
+  }
+}

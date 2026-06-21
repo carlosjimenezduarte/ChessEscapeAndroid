@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Donaciones_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a94897f31e5666c4a923a28f062a6933, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 39297634304
+    m_Localized: You can support Saint Martin Games directly through donations at
+      ChessEscape.com
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53583433728
+    m_Localized: "Willow\u2019s kibble doesn\u2019t pay for itself!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69861527552
+    m_Localized: Carlos also has to pay the ChatGPT subscription to keep developing
+      video games!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83283300352
+    m_Localized: A good cup of coffee will help Carlos make his games with more enthusiasm!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133010968576
+    m_Localized: Carlos also wants to pay the Dofus subscription to keep inspiring
+      himself while having fun!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148915769344
+    m_Localized: "Carlos dreams of buying his own house\u2026 your support also builds
+      that future!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 163209957376
+    m_Localized: Learn more
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

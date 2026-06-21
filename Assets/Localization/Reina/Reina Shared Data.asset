@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Reina Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Reina
+  m_TableCollectionNameGuidString: 09ee59110e92b724b9a453753b2ce71a
+  m_Entries:
+  - m_Id: 11751534592
+    m_Key: Queen_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 752461426688
+    m_Key: Queen_range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 804164612096
+    m_Key: Queen_Attack_Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 873358045184
+    m_Key: Queen_Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 905402527744
+    m_Key: Queen_Movement_Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 961237102592
+    m_Key: Queen_Attacks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1000193798144
+    m_Key: Queen_Attacks_Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1048776421376
+    m_Key: Queen_description_PA
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4086864296784953434
+  references:
+    version: 2
+    RefIds:
+    - rid: 4086864296784953434
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1755703626600

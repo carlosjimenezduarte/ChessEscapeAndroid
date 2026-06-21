@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 4d7c9e7db44e66f4aa84fe9d686bf156, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 230618705920
+    m_Localized: Bienvenido al Tutorial de ChessEscape.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237124071424
+    m_Localized: "ChessEscape se desarrolla a lo largo de 204 niveles de juego, en
+      los que el tablero de ajedrez tradicional ser\xE1 el escenario en el que desafiar\xE1s
+      tu inteligencia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 240546623488
+    m_Localized: "Tu objetivo ser\xE1 llevar al Rey hasta la casilla superior derecha,
+      donde se ubica la puerta. Esta casilla corresponde a H8 en un tablero de ajedrez
+      tradicional."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1643788775424
+    m_Localized: El Rey siempre comienza en la casilla inferior izquierda, equivalente
+      a A1 en un tablero de ajedrez tradicional.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1674725961728
+    m_Localized: Por naturaleza, el Rey posee 3 Puntos de Movimiento (PM) en cada
+      turno.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1708913733632
+    m_Localized: "Cada vez que lo selecciones, visualizar\xE1s su rango de movimiento
+      en color verde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739418906624
+    m_Localized: "Lo mismo ocurrir\xE1 si eliges al Pe\xF3n u otra Ficha Aliada como
+      Caballo, Alfil, Torre o Reina."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4847662411776
+    m_Localized: "La visualizaci\xF3n del rango de movimiento puede apagarse al pulsar
+      de nuevo sobre la misma ficha seleccionada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4782298378240
+    m_Localized: "Al pulsar el bot\xF3n \u201CIniciar\u201D, el Rey ser\xE1 la ficha
+      seleccionada por defecto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5022481002496
+    m_Localized: "El Rey y las Fichas Aliadas pueden eliminar Fichas Enemigas si
+      estas se encuentran dentro de su rango de ataque. Una casilla de color fucsia
+      se iluminar\xE1 cuando esta opci\xF3n est\xE9 disponible."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5100088209408
+    m_Localized: "En el caso de las Fichas Enemigas, al pulsar sobre ellas podr\xE1s
+      visualizar su Rango de Ataque Letal y su Rango de Ataque a Distancia. Para
+      apagar esa visualizaci\xF3n, vuelve a pulsar sobre la ficha."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5127837724672
+    m_Localized: "Por naturaleza, el Rey posee 5 Puntos de Acci\xF3n (PA) en cada
+      turno. Estos son necesarios para que el Rey pueda ordenar el movimiento de
+      las Fichas Aliadas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5158242234368
+    m_Localized: "Cada turno tiene una duraci\xF3n de 30 segundos. Si obtienes un
+      Reloj Dorado, ganar\xE1s 15 segundos adicionales en ese turno."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188302811136
+    m_Localized: "El Rey cuenta con 7 Vidas (turnos), que pueden incrementarse o
+      reducirse mediante \xEDtems."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5223002288128
+    m_Localized: "Tambi\xE9n encontrar\xE1s \xEDtems que otorgan PA y PM al Rey,
+      o que aumentan el rango de movimiento de las Fichas Aliadas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5251418697728
+    m_Localized: "M\xE1s informaci\xF3n sobre \xEDtems y fichas se puede encontrar
+      en el C\xF3dice de ChessEscape."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5284742443008
+    m_Localized: "En la interfaz de notificaciones se te informar\xE1 cada vez que
+      obtengas una nueva p\xE1gina."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5317822918656
+    m_Localized: "Eso es todo. \xA1Ya puedes empezar la aventura de acompa\xF1ar
+      al Rey hasta la Sala Final!\n\xA1T\xFA puedes lograrlo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262470894759936
+    m_Localized: "Cuando las Fichas Enemigas atacan a distancia, restan PM al Rey
+      o PA si se trata de una Ficha Aliada. Podr\xE1s notarlo por la l\xEDnea de
+      amenaza que proyecta la Ficha Enemiga."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 397500686151680
+    m_Localized: Este es el resumen visual de los objetos que dan forma al universo
+      de ChessEscape.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

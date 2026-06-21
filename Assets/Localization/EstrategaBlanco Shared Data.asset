@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: EstrategaBlanco Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: EstrategaBlanco
+  m_TableCollectionNameGuidString: 3cf3060f8fa8ddd41b5a3fabfcb61566
+  m_Entries:
+  - m_Id: 270479282176
+    m_Key: EstrategaBlanco1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297159249920
+    m_Key: EstrategaBlanco1Descripcion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316549517312
+    m_Key: EstrategaBlanco2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 326716510208
+    m_Key: EstrategaBlanco2Descripcion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 346513625088
+    m_Key: EstrategaBlanco3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355510407168
+    m_Key: EstrategaBlanco3Descripcion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376515481600
+    m_Key: EstrategaBlanco4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387085127680
+    m_Key: EstrategaBlanco4Descripcion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 408153116672
+    m_Key: EstrategaBlanco5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420635365376
+    m_Key: EstrategaBlanco5Descripcion
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7612479160538890244
+  references:
+    version: 2
+    RefIds:
+    - rid: 7612479160538890244
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1758569396042

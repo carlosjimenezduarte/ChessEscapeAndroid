@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: EscudoLegendario_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 3a17efc02427595469050f75d4205e59, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8886824960
+    m_Localized: "Bouclier L\xE9gendaire"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32169406464
+    m_Localized: Effets sur le Roi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70119469056
+    m_Localized: "Invuln\xE9rabilit\xE9 pendant 1 tour"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115988377600
+    m_Localized: Effets sur la Reine, la Tour, le Fou, le Cavalier et le Pion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150884986880
+    m_Localized: "Invuln\xE9rabilit\xE9 pendant 1 tour"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

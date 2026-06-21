@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: PanelResultUI_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 1779212bbdc6c77428c8d9b72b5bad21, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7819382784
+    m_Localized: "\xA1Has ganado!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424158580736
+    m_Localized: Has perdido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442152144896
+    m_Localized: Diamante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 488620838912
+    m_Localized: Vidas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 502378156032
+    m_Localized: Tiempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 531935416320
+    m_Localized: "Puntuaci\xF3n total:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 549618601984
+    m_Localized: Siguiente nivel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 584754286592
+    m_Localized: "Int\xE9ntalo de nuevo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 599916695552
+    m_Localized: Regresar al inicio
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

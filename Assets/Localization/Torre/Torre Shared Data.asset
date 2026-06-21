@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Torre Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Torre
+  m_TableCollectionNameGuidString: 2135c77c36bf97e41a9848845cd52bef
+  m_Entries:
+  - m_Id: 13328592896
+    m_Key: Rook_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89421656064
+    m_Key: Rook_range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152805978112
+    m_Key: Rook_Attack_Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 250818473984
+    m_Key: Rook_Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274444988416
+    m_Key: Rook_Movement_Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343768444928
+    m_Key: Rook_Attacks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382691586048
+    m_Key: Rook_Attacks_Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441780940800
+    m_Key: Rook_Description_PA
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4086864296784953439
+  references:
+    version: 2
+    RefIds:
+    - rid: 4086864296784953439
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1755707582694

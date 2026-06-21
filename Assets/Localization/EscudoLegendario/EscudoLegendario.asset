@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: EscudoLegendario
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 3a17efc02427595469050f75d4205e59, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 00c986b6b9b3a74408a508c90b81f0bd, type: 2}
+  - {fileID: 11400000, guid: 32b0268ba61dbf243bceb39acd640b0a, type: 2}
+  - {fileID: 11400000, guid: 843532d1235723c49871da1213ef41d4, type: 2}
+  - {fileID: 11400000, guid: 337ba8a75921dfb46a6cfaa6d00b6150, type: 2}
+  - {fileID: 11400000, guid: 1191d7c912a9db54a89cab04bb0bb44c, type: 2}
+  - {fileID: 11400000, guid: 3c32ab3e078c3ba4f8f6789f80f48032, type: 2}
+  - {fileID: 11400000, guid: 373498b919e952e4bb27328fc433fb2a, type: 2}
+  - {fileID: 11400000, guid: 08433c83dcbb8b6499b3bd4ab24b5495, type: 2}
+  - {fileID: 11400000, guid: 9cb921180db81364fa9b1b4e2dc62588, type: 2}
+  - {fileID: 11400000, guid: 762eb7aa8cf884643b72cf2592cc261a, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

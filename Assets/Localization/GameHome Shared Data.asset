@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GameHome Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GameHome
+  m_TableCollectionNameGuidString: 75f0d80b7a57d264e95f685c3769788a
+  m_Entries:
+  - m_Id: 7309766656
+    m_Key: GameHome_stat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72602497024
+    m_Key: GameHome_Codex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100020662272
+    m_Key: GameHome_achievments
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178298957824
+    m_Key: GameHome_notifications
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219268919296
+    m_Key: GameHome_ranking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248796819456
+    m_Key: GameHome_back
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4086864407723245655
+  references:
+    version: 2
+    RefIds:
+    - rid: 4086864407723245655
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1756137146342

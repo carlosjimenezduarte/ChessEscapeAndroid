@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: LogrosDiamantes
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: e3bed9f69c672ff4ba388e15aef4f682, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 8632e3cfd19f38d49975ab46b3148ecd, type: 2}
+  - {fileID: 11400000, guid: c20b1e0386ec4054eb0d73b475d9de20, type: 2}
+  - {fileID: 11400000, guid: e98fbe9fa303f8d4a8b818c8fd522155, type: 2}
+  - {fileID: 11400000, guid: ef10c2f03b48efa468b154ebcdec75d6, type: 2}
+  - {fileID: 11400000, guid: 00cae1fcbd3c0b84caddd38b00809d0c, type: 2}
+  - {fileID: 11400000, guid: 4d78620798d16a44a9227e6ea971c3af, type: 2}
+  - {fileID: 11400000, guid: 5cce41ef08c45db429c4214880c181d0, type: 2}
+  - {fileID: 11400000, guid: ef09ca630b0552a4ab77f226b491a9ea, type: 2}
+  - {fileID: 11400000, guid: f9fd758dfb85acd4bb81a8a6ffa3afb9, type: 2}
+  - {fileID: 11400000, guid: 9c9fc52e58b9b6f4689b0311fdc4050b, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

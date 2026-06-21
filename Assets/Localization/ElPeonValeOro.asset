@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: ElPeonValeOro
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 1b787f16f9d4f174bbf11dd4bf01d880, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 487b1ba38ff055e4db4bac60a3b9987a, type: 2}
+  - {fileID: 11400000, guid: a69e63f199b181a479df3eb6d61bad14, type: 2}
+  - {fileID: 11400000, guid: 272c40adaec63ff4d97215dafd0df0e6, type: 2}
+  - {fileID: 11400000, guid: 11e0856a12e3e124fb5f330e32b4b74b, type: 2}
+  - {fileID: 11400000, guid: 8e24c25240513ca4a85f55b34c0358f1, type: 2}
+  - {fileID: 11400000, guid: 5da2edc715caff141986f77008f0dc6d, type: 2}
+  - {fileID: 11400000, guid: 248fc7360a84f66449e3be96f9fc7687, type: 2}
+  - {fileID: 11400000, guid: e5fc6861619d53c4dabd06f3dfe4093b, type: 2}
+  - {fileID: 11400000, guid: 3b47214b966934947a0689ad73c08d82, type: 2}
+  - {fileID: 11400000, guid: 99a005af14c701542a391a1cdb0e6acb, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

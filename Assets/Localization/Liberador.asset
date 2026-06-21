@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Liberador
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: f8bef193511cb364e9f909af2b66e879, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 0abc3965ea6850f48902432d662a8329, type: 2}
+  - {fileID: 11400000, guid: 7a09762452f4bc2409d260d13ad50e38, type: 2}
+  - {fileID: 11400000, guid: e25f1c46953d722499ebed5ed94c427e, type: 2}
+  - {fileID: 11400000, guid: 41f3d7eea2672f54b894b3f65c8a3c71, type: 2}
+  - {fileID: 11400000, guid: 416184878aad80a438f3c8727ea2cfb4, type: 2}
+  - {fileID: 11400000, guid: c2ad22b453cf93749bab35a83a52c49c, type: 2}
+  - {fileID: 11400000, guid: e56342b4de4f79d438f7e8e28e4b987e, type: 2}
+  - {fileID: 11400000, guid: 9b9ae1dbc9eca1e4a838718290bd83f8, type: 2}
+  - {fileID: 11400000, guid: 238fc5788b8e92248a09e6dfd6632132, type: 2}
+  - {fileID: 11400000, guid: 1f9f425d97a5e3b4fbeeacbc15c3ab12, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

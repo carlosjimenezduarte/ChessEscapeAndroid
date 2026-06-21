@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da7738940c8c2134d914ff0da6b14cdb, type: 3}
+  m_Name: AvatarCatalog
+  m_EditorClassIdentifier: 
+  entries:
+  - id: Pawn
+    sprite: {fileID: 21300000, guid: 0f2a46ef1f3cddc4a9606bf42d1a4fe7, type: 3}
+  - id: 'RedPawn '
+    sprite: {fileID: 21300000, guid: fe74c1cae3523fc4cbcc6b1707064466, type: 3}
+  - id: Knight
+    sprite: {fileID: 21300000, guid: d7045df4bca893a4d87f6d891cd878cd, type: 3}
+  - id: Bishop
+    sprite: {fileID: 21300000, guid: f50c55282bd10e745a9419fbff3c5d2d, type: 3}
+  - id: RedBishop
+    sprite: {fileID: 21300000, guid: 311a4dcfc7ff67f458039532c617f74a, type: 3}
+  - id: RedKnight
+    sprite: {fileID: 21300000, guid: 89ff9ab3f1f02194db4cc40828dc1037, type: 3}
+  - id: Rook
+    sprite: {fileID: 21300000, guid: 2bc4a9bbea265044fa82ff0797a5a97a, type: 3}
+  - id: RedRook
+    sprite: {fileID: 21300000, guid: dd3f6f24046d4534a9e27626f968056f, type: 3}
+  - id: Queen
+    sprite: {fileID: 21300000, guid: 5847fdc83a2a56342854a7eebffd592a, type: 3}
+  - id: RedQueen
+    sprite: {fileID: 21300000, guid: 3bdcff43850cfa6418e5e5b34d536ddd, type: 3}
+  - id: King
+    sprite: {fileID: 21300000, guid: 30c804d86569e14489a21f406ebad31a, type: 3}
+  - id: KingFree
+    sprite: {fileID: 21300000, guid: 0b73aa6cd5f817945850928e81e0bf9e, type: 3}
+  defaultSprite: {fileID: 0}

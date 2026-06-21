@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Liberador Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Liberador
+  m_TableCollectionNameGuidString: f8bef193511cb364e9f909af2b66e879
+  m_Entries:
+  - m_Id: 214074281984
+    m_Key: Liberador1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 236018880512
+    m_Key: Liberador2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253026783232
+    m_Key: Liberador3
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7612479024294264929
+  references:
+    version: 2
+    RefIds:
+    - rid: 7612479024294264929
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1758040897136

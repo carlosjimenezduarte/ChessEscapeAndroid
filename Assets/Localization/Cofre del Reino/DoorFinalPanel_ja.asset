@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DoorFinalPanel_ja
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ja
+  m_SharedData: {fileID: 11400000, guid: db3aae008e1e3144190988d3b712c967, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 29587820544
+    m_Localized: "\u4F1D\u8AAC\u306E\u30AB\u30AE\u306E3\u3064\u306E\u30D1\u30FC\u30C4\u3001\u3059\u3079\u3066\u306E\u52F2\u7AE0\u3001\u3059\u3079\u3066\u306E\u30C8\u30ED\u30D5\u30A3\u30FC\u3001\u3059\u3079\u3066\u306E\u5DFB\u7269\u3001\u3059\u3079\u3066\u306E\u30C0\u30A4\u30E4\u30E2\u30F3\u30C9\u3001\u305D\u3057\u3066\u30B2\u30FC\u30E0\u5185\u306E\u3059\u3079\u3066\u306E\u30AB\u30AE\u3092\u624B\u306B\u5165\u308C\u308B\u307E\u3067\u3001\u3053\u306E\u90E8\u5C4B\u306B\u306F\u5165\u308C\u307E\u305B\u3093\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363613802496
+    m_Localized: "\u3088\u3057\uFF01"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

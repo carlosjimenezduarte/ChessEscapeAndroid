@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: LogroCaballosRojos
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 6ec9a2985f1b4974bba635a239b52df0, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 6e864559359369e41892ffd595525268, type: 2}
+  - {fileID: 11400000, guid: cc863de6b2100b24ab105a708b450f70, type: 2}
+  - {fileID: 11400000, guid: c5b5bb8e1d82fcd44a9ce4d6514cac75, type: 2}
+  - {fileID: 11400000, guid: f8928ce8b94dc3b49b79e66b48de8782, type: 2}
+  - {fileID: 11400000, guid: 83fd1734edfa6554794d686064a0049c, type: 2}
+  - {fileID: 11400000, guid: df593afd23632264e8152de6c9096b8c, type: 2}
+  - {fileID: 11400000, guid: e4a7f0f4befbd6f449e017076299658a, type: 2}
+  - {fileID: 11400000, guid: 4b174f6b45951af47b2988ba24bd93f3, type: 2}
+  - {fileID: 11400000, guid: e1b6f8eef7364f94ba8bdd64895bbe5e, type: 2}
+  - {fileID: 11400000, guid: c47d233523bf13a4395588f360773261, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

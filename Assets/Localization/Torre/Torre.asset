@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Torre
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 2135c77c36bf97e41a9848845cd52bef, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 8176ad33b967cc34b9ff452db99d8700, type: 2}
+  - {fileID: 11400000, guid: f217678f14938124da9d11882ea1bf7d, type: 2}
+  - {fileID: 11400000, guid: 3a6796a6a1994be45b9f2d623f196700, type: 2}
+  - {fileID: 11400000, guid: aad0c79df9c19414688bcd4632d5ccf8, type: 2}
+  - {fileID: 11400000, guid: 71b20113185d19f419bdc9d9e52411fe, type: 2}
+  - {fileID: 11400000, guid: e57b0b3cb1ee2ed40867cf851d5da0fe, type: 2}
+  - {fileID: 11400000, guid: 3897720f9655f6a4393a7775ad8e0d4b, type: 2}
+  - {fileID: 11400000, guid: 7883c7a5fa8de1c4ca531c968fbff32f, type: 2}
+  - {fileID: 11400000, guid: db29bfc7dbb04c84c82842bce980ea77, type: 2}
+  - {fileID: 11400000, guid: 7d9b14ae294e5ca49893e2841de64bca, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

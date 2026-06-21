@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Torre Roja_ja
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ja
+  m_SharedData: {fileID: 11400000, guid: 06987129ac80f9c4aa886da70ce1f917, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10644238336
+    m_Localized: "\u30EC\u30C3\u30C9\u30EB\u30FC\u30AF"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103514517504
+    m_Localized: "\u79FB\u52D5\u7BC4\u56F2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153443512320
+    m_Localized: "\u81F4\u6B7B\u653B\u6483\u7BC4\u56F2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 200218390528
+    m_Localized: "\u9060\u8DDD\u96E2\u653B\u6483"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252601053184
+    m_Localized: "\u79FB\u52D5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292128174080
+    m_Localized: "\u7E26\u3068\u6A2A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330845794304
+    m_Localized: "\u9060\u8DDD\u96E2\u653B\u6483\u3092\u3059\u308B\u3068\u738B\u306EMP\u30921\u6E1B\u3089\u3057\u307E\u3059\u3002\u76F8\u624B\u304C\u30DD\u30FC\u30F3\u3001\u30CA\u30A4\u30C8\u3001\u30D3\u30B7\u30E7\u30C3\u30D7\u3001\u30EB\u30FC\u30AF\u307E\u305F\u306F\u30AF\u30A4\u30FC\u30F3\u306E\u5834\u5408\u3001\u3055\u3089\u306B\u738B\u306EAP\u30921\u6E1B\u3089\u3057\u307E\u3059\u3002"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

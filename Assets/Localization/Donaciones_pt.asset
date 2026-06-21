@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Donaciones_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: a94897f31e5666c4a923a28f062a6933, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 39297634304
+    m_Localized: "Podes apoiar a Saint Martin Games diretamente atrav\xE9s das doa\xE7\xF5es
+      em ChessEscape.com"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53583433728
+    m_Localized: "A ra\xE7\xE3o da Willow n\xE3o se paga sozinha!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69861527552
+    m_Localized: "O Carlos tamb\xE9m tem de pagar a subscri\xE7\xE3o do ChatGPT para
+      continuar a desenvolver videojogos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83283300352
+    m_Localized: "Uma boa ch\xE1vena de caf\xE9 ajudar\xE1 o Carlos a criar os seus
+      jogos com mais entusiasmo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133010968576
+    m_Localized: "O Carlos tamb\xE9m quer pagar a subscri\xE7\xE3o do Dofus para
+      continuar a inspirar-se enquanto se diverte!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148915769344
+    m_Localized: "O Carlos sonha em comprar a sua pr\xF3pria casa\u2026 o teu apoio
+      tamb\xE9m constr\xF3i esse futuro!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 163209957376
+    m_Localized: Saber mais
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

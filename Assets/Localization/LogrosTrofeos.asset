@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: LogrosTrofeos
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: c687ef2c42a3fe3498585cc85d655731, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 92acaedc6f5cefe4fa6b3fe006f04690, type: 2}
+  - {fileID: 11400000, guid: 6e5a1d6fc7bb2ec438aa2b27f1556a99, type: 2}
+  - {fileID: 11400000, guid: d715a65a04b88f648b5217d564542515, type: 2}
+  - {fileID: 11400000, guid: b60688ab682145f489973f619cea8777, type: 2}
+  - {fileID: 11400000, guid: 4fdbe14e85731974c826d09f02965416, type: 2}
+  - {fileID: 11400000, guid: 639dc95d03a9f1b4bba573ca213da28b, type: 2}
+  - {fileID: 11400000, guid: a0451b0979987fd459f02e376cb5b6a5, type: 2}
+  - {fileID: 11400000, guid: 54ea597f1c148a94cb0ee412bb0af9eb, type: 2}
+  - {fileID: 11400000, guid: e3f19e5565f2a1849ac33fbd1f29dea1, type: 2}
+  - {fileID: 11400000, guid: 184e93965a307e442b1d755d46ca41f6, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

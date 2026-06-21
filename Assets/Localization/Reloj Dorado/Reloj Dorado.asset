@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Reloj Dorado
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 5b406e8d389b44e42bc6407c1bc881de, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: c022e0a591de47046aab5e239ccbe123, type: 2}
+  - {fileID: 11400000, guid: 332b908112a715d4b8ece0c249efae63, type: 2}
+  - {fileID: 11400000, guid: 3e2bbb8924a711047989410f697de0d1, type: 2}
+  - {fileID: 11400000, guid: 550007d8c4d749a4bba0414f447c2da3, type: 2}
+  - {fileID: 11400000, guid: 902a393d2fc250c4188e32b82dc82d81, type: 2}
+  - {fileID: 11400000, guid: 6add59f63a618b1418a5d33c04032d99, type: 2}
+  - {fileID: 11400000, guid: 33d3ab3e0bd47a74bbe136a830a6de19, type: 2}
+  - {fileID: 11400000, guid: 439abc8920034a64482c3fc59c5e7ca4, type: 2}
+  - {fileID: 11400000, guid: 66153efa1c3854b41bffbba2ffac4134, type: 2}
+  - {fileID: 11400000, guid: 596f86d36fc3c094b8f119d64d797784, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,70 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity generated project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+
+# IDE/editor files
+.vs/
+.vscode/
+.idea/
+.consulo/
+ExportedObj/
+*.log
+
+# Build outputs and release artifacts
+*.apk
+*.aab
+*.apks
+*.app
+*.unitypackage
+*.unitypackage.meta
+release-artifacts/
+
+# Local planning/export documents not required by Unity builds
+Assets/*.odt
+Assets/*.odt.meta
+Assets/*.ods
+Assets/*.ods.meta
+Assets/*.xlsx
+Assets/*.xlsx.meta
+
+# Unity Android/IL2CPP output folders
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*BurstDebugInformation_DoNotShip/
+.utmp/
+
+# Firebase local deploy/cache files
+.firebase/
+firebase-debug.log
+
+# WebGL/desktop build exports kept out of this Android source repo
+ChessEscapeWebGL*/
+chessescapebeta/
+ChessEscapeLinux/
+FirebasePublic/

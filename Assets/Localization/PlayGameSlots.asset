@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: PlayGameSlots
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 7858b7eb4e62f8740820eb3750cf6e28, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 5c566b4d5a9597e4b90c5364909793cf, type: 2}
+  - {fileID: 11400000, guid: 8500fb5b0f7dda84794f8e10a5770685, type: 2}
+  - {fileID: 11400000, guid: 21e9366145751794991dc23063e5752d, type: 2}
+  - {fileID: 11400000, guid: 5ba907bd15558b84fb975742acf5504f, type: 2}
+  - {fileID: 11400000, guid: 37d621c1b409aeb45b7aee70ccd4df93, type: 2}
+  - {fileID: 11400000, guid: 44b2272cbd667f041b8ee32c024dec08, type: 2}
+  - {fileID: 11400000, guid: 6c7507471dd20a9408b1bdb75db37c8f, type: 2}
+  - {fileID: 11400000, guid: 082ac6b9e85436d4aa4c1fb02e456443, type: 2}
+  - {fileID: 11400000, guid: 53a431c5c1460a945a6a5aa030c08007, type: 2}
+  - {fileID: 11400000, guid: 6aedb8efb3e12d34d9b510a052aa3313, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

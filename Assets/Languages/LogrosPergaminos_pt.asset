@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LogrosPergaminos_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 86de968315c8a634cab9f8c50f65810f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 46553780224
+    m_Localized: "Obter o pergaminho do n\xEDvel 10"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59564511232
+    m_Localized: "Obter o pergaminho do n\xEDvel 20"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64291491840
+    m_Localized: "Obter o pergaminho do n\xEDvel 50"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66862600192
+    m_Localized: "Obter o pergaminho do n\xEDvel 70"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72331972608
+    m_Localized: "Obter o pergaminho do n\xEDvel 80"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262531076096
+    m_Localized: "Obter o pergaminho do n\xEDvel 110"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 288292491264
+    m_Localized: "Obter o pergaminho do n\xEDvel 120"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317606481920
+    m_Localized: "Obter o pergaminho do n\xEDvel 150"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 338787717120
+    m_Localized: "Obter o pergaminho do n\xEDvel 160"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359956369408
+    m_Localized: "Obter o pergaminho do n\xEDvel 180"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

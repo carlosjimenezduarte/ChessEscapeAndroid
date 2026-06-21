@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Talisman_el
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: el
+  m_SharedData: {fileID: 11400000, guid: 98e3d0f3d00f6c549a09ca9568e0632f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7255240704
+    m_Localized: "\u03A4\u03B1\u03BB\u03B9\u03C3\u03BC\u03AC\u03BD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27178184704
+    m_Localized: "\u0395\u03C6\u03AD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74355716096
+    m_Localized: "-1 \u03B4\u03B9\u03B1\u03BC\u03AC\u03BD\u03C4\u03B9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125425561600
+    m_Localized: "\u03A3\u03BA\u03BF\u03C1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154555002880
+    m_Localized: "-25 \u03C0\u03CC\u03BD\u03C4\u03BF\u03B9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181729898496
+    m_Localized: "\u03A4\u03BF \u03B5\u03C6\u03AD \u03B5\u03C6\u03B1\u03C1\u03BC\u03CC\u03B6\u03B5\u03C4\u03B1\u03B9
+      \u03B1\u03BA\u03CC\u03BC\u03B7 \u03BA\u03B9 \u03B1\u03BD \u03BB\u03B7\u03C6\u03B8\u03B5\u03AF
+      \u03C0\u03C1\u03B9\u03BD \u03B1\u03C0\u03BF\u03BA\u03C4\u03B7\u03B8\u03B5\u03AF
+      \u03B4\u03B9\u03B1\u03BC\u03AC\u03BD\u03C4\u03B9."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

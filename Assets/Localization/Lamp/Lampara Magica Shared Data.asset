@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Lampara Magica Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Lampara Magica
+  m_TableCollectionNameGuidString: d17f2007b90a52047979dc0f09410ab3
+  m_Entries:
+  - m_Id: 7813083136
+    m_Key: Lamp_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28553916416
+    m_Key: Lamp_score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47377952768
+    m_Key: Lamp_points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64457158656
+    m_Key: Lamp_description
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4086864340330479703
+  references:
+    version: 2
+    RefIds:
+    - rid: 4086864340330479703
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1755868918707

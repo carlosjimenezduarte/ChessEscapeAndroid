@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Atraccion_ko
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: 3c5c6da1a4b6dfd4ea41eb610c38498f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 16348491776
+    m_Localized: "\uC5B4\uD2B8\uB799\uC158"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98691067904
+    m_Localized: "\uB9F5\uC758 \uBAA8\uB4E0 \uB9D0\uACFC \uC624\uBE0C\uC81D\uD2B8\uB97C
+      1\uCE78 \uB04C\uC5B4\uB2F9\uAE41\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124125327360
+    m_Localized: "\uD6A8\uACFC\uB97C \uBC1C\uB3D9\uD55C \uC544\uAD70 \uB9D0\uC5D0\uB294
+      \uC601\uD5A5\uC744 \uC8FC\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135466725376
+    m_Localized: "\uC544\uAD70 \uB9D0\uB9CC \uC0AC\uC6A9\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

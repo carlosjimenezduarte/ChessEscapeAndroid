@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Torre Roja Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Torre Roja
+  m_TableCollectionNameGuidString: 06987129ac80f9c4aa886da70ce1f917
+  m_Entries:
+  - m_Id: 10644238336
+    m_Key: RedRook_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103514517504
+    m_Key: RedRook_range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153443512320
+    m_Key: RedRook_letalrange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 200218390528
+    m_Key: RedRook_range_attacks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252601053184
+    m_Key: RedRook_movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292128174080
+    m_Key: RedRook_movement_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330845794304
+    m_Key: RedRook_description_distance
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4086864320917405806
+  references:
+    version: 2
+    RefIds:
+    - rid: 4086864320917405806
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1755809061684

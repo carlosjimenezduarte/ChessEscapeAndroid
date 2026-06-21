@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: PocimaRoja Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: PocimaRoja
+  m_TableCollectionNameGuidString: c929edd7048cb0f49b4a61f905af84b0
+  m_Entries:
+  - m_Id: 10853953536
+    m_Key: Less1PM_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58333474816
+    m_Key: Less1PM_King
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102688239616
+    m_Key: Less1PM_KingPM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149735747584
+    m_Key: Less1PM_Pieces
+    m_Metadata:
+      m_Items: []
+  - m_Id: 169159569408
+    m_Key: Less1PM_PiecesPM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 198255456256
+    m_Key: Less1PM_Knight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219763847168
+    m_Key: Less1PM_KnightPA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19854244589568
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4086864344739479643
+  references:
+    version: 2
+    RefIds:
+    - rid: 4086864344739479643
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1755885867643

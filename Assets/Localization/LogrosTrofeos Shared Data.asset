@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LogrosTrofeos Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: LogrosTrofeos
+  m_TableCollectionNameGuidString: c687ef2c42a3fe3498585cc85d655731
+  m_Entries:
+  - m_Id: 6770806784
+    m_Key: TrofeoVerde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10105278464
+    m_Key: Nivel30
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14702235648
+    m_Key: TrofeoAzul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16879079424
+    m_Key: Nivel90
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19634737152
+    m_Key: TrofeoRojo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225822527488
+    m_Key: Nivel140
+    m_Metadata:
+      m_Items: []
+  - m_Id: 293573120000
+    m_Key: TrofeoDorado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363701882880
+    m_Key: Nivel190
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7612479138497036289
+  references:
+    version: 2
+    RefIds:
+    - rid: 7612479138497036289
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1758465981905

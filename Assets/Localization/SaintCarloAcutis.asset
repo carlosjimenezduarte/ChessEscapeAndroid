@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: SaintCarloAcutis
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 96e616682a1c3f74eb2fece5448bdd46, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 1267d72e8ea2fd34382488f2a5fe4f2f, type: 2}
+  - {fileID: 11400000, guid: fc47ee2722f63154b97a77fecaf6bc90, type: 2}
+  - {fileID: 11400000, guid: c3ef4a36af06b8a42b07e83b3f3df49b, type: 2}
+  - {fileID: 11400000, guid: 8d74faf5cb76f3a4cbfff5efefb069c4, type: 2}
+  - {fileID: 11400000, guid: 02208018b7679284b801720e6129d4fc, type: 2}
+  - {fileID: 11400000, guid: 90cdebc9171839a44b19fe2aae38255b, type: 2}
+  - {fileID: 11400000, guid: 7f632b2870b766f49860179001be1bf3, type: 2}
+  - {fileID: 11400000, guid: 4451135bc40ed8849a6ba7a975b09f42, type: 2}
+  - {fileID: 11400000, guid: 9159a68060c274b4493294ce20c54edc, type: 2}
+  - {fileID: 11400000, guid: 807afc7d6eba28f47b725a515aad06b9, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

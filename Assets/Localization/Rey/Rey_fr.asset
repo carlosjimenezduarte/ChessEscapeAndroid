@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Rey_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: f07f9eb15e4a29645b1135e83c74f3d0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12934328320
+    m_Localized: Roi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67623858176
+    m_Localized: Vies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96178679808
+    m_Localized: Points de Mouvement (PM)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136511107072
+    m_Localized: "Points d\u2019Action (PA)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 173928493056
+    m_Localized: Attaques
+    m_Metadata:
+      m_Items: []
+  - m_Id: 200897867776
+    m_Localized: "Peut ordonner aux Pi\xE8ces Alli\xE9es de se d\xE9placer tant qu\u2019il
+      lui reste des PA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3516105109504
+    m_Localized: "Corps \xE0 corps et en diagonale"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

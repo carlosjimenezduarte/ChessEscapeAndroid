@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: PocimaFucsia
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 24f3dcfa71a4f6d46a585534166c1e24, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 73a71352f08351347ab75f5798069a3d, type: 2}
+  - {fileID: 11400000, guid: f96b42e00ed372b4d8fef5cb2b33039d, type: 2}
+  - {fileID: 11400000, guid: 55a299544b030364b921a29f59f7b907, type: 2}
+  - {fileID: 11400000, guid: 0588cf922cfd7a3418401b2de7c54c4f, type: 2}
+  - {fileID: 11400000, guid: 42dab73e89002af4280410cb25d7d60a, type: 2}
+  - {fileID: 11400000, guid: 5adadaaeba2c7ac418551a487fceeb5f, type: 2}
+  - {fileID: 11400000, guid: 96601bcb80e325246944ce3522336e75, type: 2}
+  - {fileID: 11400000, guid: 7305324c2234d864f83bfb2cc05d74af, type: 2}
+  - {fileID: 11400000, guid: 671079cf6f466954aaeb7866888db1c6, type: 2}
+  - {fileID: 11400000, guid: b6d479663243ca44a8e52bf2e317906d, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

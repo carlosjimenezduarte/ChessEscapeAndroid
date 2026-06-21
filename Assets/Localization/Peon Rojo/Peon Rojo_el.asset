@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Peon Rojo_el
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: el
+  m_SharedData: {fileID: 11400000, guid: 9bfcf238c14f8e14688a70cb6dd7ee27, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 249727954944
+    m_Localized: "\u039A\u03CC\u03BA\u03BA\u03B9\u03BD\u03BF \u03A0\u03B9\u03CC\u03BD\u03B9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275556478976
+    m_Localized: "\u0395\u03BC\u03B2\u03AD\u03BB\u03B5\u03B9\u03B1 \u03B5\u03C0\u03AF\u03B8\u03B5\u03C3\u03B7\u03C2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 373204070400
+    m_Localized: "\u0395\u03C0\u03B9\u03B8\u03AD\u03C3\u03B5\u03B9\u03C2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 449708175360
+    m_Localized: "\u0394\u03B9\u03B1\u03B3\u03CE\u03BD\u03B9\u03B1"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

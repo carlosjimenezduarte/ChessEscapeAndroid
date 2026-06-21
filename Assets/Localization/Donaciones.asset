@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Donaciones
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: a94897f31e5666c4a923a28f062a6933, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: b72b6f5f897530f4c838991b93454553, type: 2}
+  - {fileID: 11400000, guid: 9cd71e847cac93040b1b9af50dd3bdfe, type: 2}
+  - {fileID: 11400000, guid: bf13dec3c30694441a104ef7d86df596, type: 2}
+  - {fileID: 11400000, guid: 4c9f770608835d643aeefba299de6681, type: 2}
+  - {fileID: 11400000, guid: 32a59e2d26df3094eba4a3bb4dd19ff4, type: 2}
+  - {fileID: 11400000, guid: 0b3380ae704862a4d9680435dbac005c, type: 2}
+  - {fileID: 11400000, guid: f22169d5d58d87a4d815ffa746171a5f, type: 2}
+  - {fileID: 11400000, guid: aa87efe1a4248794589b3b42a0e66951, type: 2}
+  - {fileID: 11400000, guid: 498347f79a5f3544b8eae4150bfac829, type: 2}
+  - {fileID: 11400000, guid: 22257fcfbf8f0ab47833610758a9a02b, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

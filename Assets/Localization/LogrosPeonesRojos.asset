@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: LogrosPeonesRojos
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: a209070a62c3f6e4dae9404459fa190b, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 32355ca9d2bbd8f429ce99e808c103ba, type: 2}
+  - {fileID: 11400000, guid: 5d87716198eb5cc40b49a211f8ddd9a6, type: 2}
+  - {fileID: 11400000, guid: f75e4a6eb5cfbc044b190148ab14aa21, type: 2}
+  - {fileID: 11400000, guid: 0f607bd8fee0b454fb88cdb44799df48, type: 2}
+  - {fileID: 11400000, guid: 1cc2c2cec5e0de74fbf587a56130f06c, type: 2}
+  - {fileID: 11400000, guid: 1aa5cc89d0490d7419f5ea05a11eb307, type: 2}
+  - {fileID: 11400000, guid: c3dc0f9e228699440a2705949df1cc23, type: 2}
+  - {fileID: 11400000, guid: 060651eee03a51a4e94565f3231ba092, type: 2}
+  - {fileID: 11400000, guid: 65604b9a30d3e574495bba94b73e2387, type: 2}
+  - {fileID: 11400000, guid: 9a6b463ec2240a34daa830a1fb85dfdb, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

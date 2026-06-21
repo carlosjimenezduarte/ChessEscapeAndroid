@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cinematica2_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 96de11300926c0d4e9b8e616013fe5be, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10415656960
+    m_Localized: Upon reaching chamber 100, the man received an unexpected visit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13158731776
+    m_Localized: The Genie congratulated him for his commitment and encouraged him
+      to persevere until the end.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17453699072
+    m_Localized: "Then he spoke of the existence of a Legendary Chest\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20037390336
+    m_Localized: "\u201C\u2026a treasure that can only be opened with the three fragments
+      of the Sacred Key,\u201D declared the Genie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22855962624
+    m_Localized: "\u201CIf you manage to open that Chest, you will cease to be just
+      a Piece\u2026 and you will become a true Crowned King,\u201D assured the Genie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27385810944
+    m_Localized: With that promise, the man renewed his strength and accepted the
+      challenges that still awaited him.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

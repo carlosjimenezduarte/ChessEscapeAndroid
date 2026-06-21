@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Corazon Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Corazon
+  m_TableCollectionNameGuidString: d4bdfbedfef6e9f418d4f2fabeb2b0d6
+  m_Entries:
+  - m_Id: 10266750976
+    m_Key: Heart_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1055923515392
+    m_Key: Heart_effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1081684930560
+    m_Key: Heart_1life
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1170272825344
+    m_Key: Heart_description
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4086864342482157668
+  references:
+    version: 2
+    RefIds:
+    - rid: 4086864342482157668
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1755878387738

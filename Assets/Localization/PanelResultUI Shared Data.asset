@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: PanelResultUI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: PanelResultUI
+  m_TableCollectionNameGuidString: 1779212bbdc6c77428c8d9b72b5bad21
+  m_Entries:
+  - m_Id: 7819382784
+    m_Key: YouWin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424158580736
+    m_Key: YouLose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442152144896
+    m_Key: Diamond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 488620838912
+    m_Key: Lives
+    m_Metadata:
+      m_Items: []
+  - m_Id: 502378156032
+    m_Key: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 531935416320
+    m_Key: TotalScore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 549618601984
+    m_Key: NextLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 584754286592
+    m_Key: TryAgain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 599916695552
+    m_Key: BacktoHome
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7612478754030092384
+  references:
+    version: 2
+    RefIds:
+    - rid: 7612478754030092384
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1757001497690

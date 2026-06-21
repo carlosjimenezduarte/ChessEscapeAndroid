@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: ReinaNegra
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 6a162fa3842b22c47a126a750cb9982e, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: af3ebc006bb9f3c4397fb232a1adfd7b, type: 2}
+  - {fileID: 11400000, guid: fb8dda39708f77a4bae780e5f27d49d1, type: 2}
+  - {fileID: 11400000, guid: 099013790bf196849bc4e9afc5896276, type: 2}
+  - {fileID: 11400000, guid: 0f6d269af8a38b14d9ea94b289a49be6, type: 2}
+  - {fileID: 11400000, guid: bbb7405710812df42b28cd93d92087df, type: 2}
+  - {fileID: 11400000, guid: 339c1003a7fd0b0448e5813704a53818, type: 2}
+  - {fileID: 11400000, guid: ec1b09962745efa418f82fb877990109, type: 2}
+  - {fileID: 11400000, guid: 4f2a6cc5e00741840a532bcf5db5f157, type: 2}
+  - {fileID: 11400000, guid: a4d09b877fe85e14e934f2f3b147f499, type: 2}
+  - {fileID: 11400000, guid: dbdb64a3ad74a3943a5ba79a26e7bd66, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

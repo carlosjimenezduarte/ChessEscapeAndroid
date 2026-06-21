@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Torre_el
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: el
+  m_SharedData: {fileID: 11400000, guid: 2135c77c36bf97e41a9848845cd52bef, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13328592896
+    m_Localized: "\u03A0\u03CD\u03C1\u03B3\u03BF\u03C2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89421656064
+    m_Localized: "\u0395\u03BC\u03B2\u03AD\u03BB\u03B5\u03B9\u03B1 \u03BA\u03AF\u03BD\u03B7\u03C3\u03B7\u03C2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152805978112
+    m_Localized: "\u0395\u03BC\u03B2\u03AD\u03BB\u03B5\u03B9\u03B1 \u03B5\u03C0\u03AF\u03B8\u03B5\u03C3\u03B7\u03C2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 250818473984
+    m_Localized: "\u039C\u03B5\u03C4\u03B1\u03BA\u03AF\u03BD\u03B7\u03C3\u03B7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274444988416
+    m_Localized: "\u039A\u03AC\u03B8\u03B5\u03C4\u03B1 \u03BA\u03B1\u03B9 \u03BF\u03C1\u03B9\u03B6\u03CC\u03BD\u03C4\u03B9\u03B1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343768444928
+    m_Localized: "\u0395\u03C0\u03B9\u03B8\u03AD\u03C3\u03B5\u03B9\u03C2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382691586048
+    m_Localized: "\u039C\u03AD\u03C3\u03B1 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BC\u03B2\u03AD\u03BB\u03B5\u03B9\u03B1
+      \u03BA\u03AF\u03BD\u03B7\u03C3\u03AE\u03C2 \u03C4\u03BF\u03C5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441780940800
+    m_Localized: "\u039A\u03B1\u03C4\u03B1\u03BD\u03B1\u03BB\u03CE\u03BD\u03B5\u03B9
+      1 \u03A0\u0395 \u03C4\u03BF\u03C5 \u0392\u03B1\u03C3\u03B9\u03BB\u03B9\u03AC
+      \u03B3\u03B9\u03B1 \u03BA\u03AC\u03B8\u03B5 \u03BC\u03B5\u03C4\u03B1\u03BA\u03AF\u03BD\u03B7\u03C3\u03B7.
+      \u038C\u03C4\u03B1\u03BD \u03C6\u03C4\u03AC\u03C3\u03B5\u03B9 \u03C3\u03C4\u03BF
+      \u03C4\u03B5\u03C4\u03C1\u03AC\u03B3\u03C9\u03BD\u03BF \u03B5\u03BE\u03CC\u03B4\u03BF\u03C5,
+      \u03C7\u03B1\u03C1\u03AF\u03B6\u03B5\u03B9 \u03C3\u03C4\u03BF\u03BD \u0392\u03B1\u03C3\u03B9\u03BB\u03B9\u03AC
+      7 \u03A0\u039A, 7 \u03A0\u0395 \u03BA\u03B1\u03B9 7 \u03B6\u03C9\u03AD\u03C2."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

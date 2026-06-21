@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: LogrosReinaNegras
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 0471cc1e8d087c64888c2fcb6d0952e6, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 72ce7c7ce0f08a944a58467ead58d1cb, type: 2}
+  - {fileID: 11400000, guid: 2b91805d1caa2cf4aa372fb9bf79c2e9, type: 2}
+  - {fileID: 11400000, guid: 843638cd8e30b4840894365d7a5eda4c, type: 2}
+  - {fileID: 11400000, guid: 3db6bac30d9795141b792be91cf63a80, type: 2}
+  - {fileID: 11400000, guid: 19ac5c8465fd47a4b8acd94d5f44bfbc, type: 2}
+  - {fileID: 11400000, guid: d7b5695419d6b634ca740b017ee8dac0, type: 2}
+  - {fileID: 11400000, guid: 1cb4921ce5682a04a945b4030070b24a, type: 2}
+  - {fileID: 11400000, guid: 99569f228b3cf624aa40a62170b64421, type: 2}
+  - {fileID: 11400000, guid: 98f546c86befabc4b86a7730601000bd, type: 2}
+  - {fileID: 11400000, guid: 0bf8012807890ac46aba8e56c205ba74, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

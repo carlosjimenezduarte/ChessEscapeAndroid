@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Lampara Magica
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: d17f2007b90a52047979dc0f09410ab3, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: d8cdcaba4f65ec445bd002d023ec1507, type: 2}
+  - {fileID: 11400000, guid: ec10e01abf6f5a94897b407fdf6f86a9, type: 2}
+  - {fileID: 11400000, guid: 6860bda8a3b5d244fafff83c57d90155, type: 2}
+  - {fileID: 11400000, guid: c560c76a94e75ae4aacb014d94406472, type: 2}
+  - {fileID: 11400000, guid: a3a7622b70850494a9381d24b205a765, type: 2}
+  - {fileID: 11400000, guid: 281cc44fd5f89334fad60b34944d6866, type: 2}
+  - {fileID: 11400000, guid: bf8c2c2a11f94c04cbc18291691d7729, type: 2}
+  - {fileID: 11400000, guid: e60f6a20bc8401842bfe212c022b7372, type: 2}
+  - {fileID: 11400000, guid: 6040c1e80ca962e4d8d873994e512314, type: 2}
+  - {fileID: 11400000, guid: 54c7f8d9b9c4dd143b52be5a538e607d, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Llavero
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: aea61b64af9cbb942bd93702daf70466, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: aa00701223f25ea47be08462b9bc4816, type: 2}
+  - {fileID: 11400000, guid: d4f10c01eb00ce2409ce75b10eaa5f4a, type: 2}
+  - {fileID: 11400000, guid: d0ccaa26681d75f40ad978b9da542879, type: 2}
+  - {fileID: 11400000, guid: bd2575e0bd9d3cd44b6ec0e0f73ba0b3, type: 2}
+  - {fileID: 11400000, guid: 61e07cd38aec10f4088d877103954c06, type: 2}
+  - {fileID: 11400000, guid: 37c2be26b94636442b988af74f38a8ca, type: 2}
+  - {fileID: 11400000, guid: 579bcdbea1731f049bdd7718c1c4a64e, type: 2}
+  - {fileID: 11400000, guid: bca2a5fa82908a2498d0918789250eb0, type: 2}
+  - {fileID: 11400000, guid: 621a3ab4eac239347a8209ab9be846be, type: 2}
+  - {fileID: 11400000, guid: 9b5a7ce75a86fd249bb37cbd63f31ea5, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

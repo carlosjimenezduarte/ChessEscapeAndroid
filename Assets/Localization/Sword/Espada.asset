@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Espada
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: a50498c496eb2bb4f80cbd6ad80e58b3, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 208a0afca9e31f246a737d5f224f1a27, type: 2}
+  - {fileID: 11400000, guid: 4d7d489fd7894cf43804fe4b2bb47cb2, type: 2}
+  - {fileID: 11400000, guid: 3dbfcf4995245374bbcb7c40044f3d22, type: 2}
+  - {fileID: 11400000, guid: 7a3e15189dec7f1419deb737ae0e2735, type: 2}
+  - {fileID: 11400000, guid: fb990eac2380eb840936bed5035932d3, type: 2}
+  - {fileID: 11400000, guid: b6490242cf252fc4aaacc56192008296, type: 2}
+  - {fileID: 11400000, guid: d83af0a2c604baa46a447a0bca28e364, type: 2}
+  - {fileID: 11400000, guid: be683616dde27994aaefa245fb295f31, type: 2}
+  - {fileID: 11400000, guid: cad50f9d08ace5a4a87cc8d3fb61f517, type: 2}
+  - {fileID: 11400000, guid: b41d7a109e17fa7479c37438bf32dcb1, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

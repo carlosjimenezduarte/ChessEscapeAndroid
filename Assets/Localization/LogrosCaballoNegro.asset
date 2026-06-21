@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: LogrosCaballoNegro
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 40cc525c76266074c9bb6cf6f400a74d, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: f479709ab673c354ca2d9cc2d20dbd6b, type: 2}
+  - {fileID: 11400000, guid: 9687d04ed9e36a846975e2f8b266760d, type: 2}
+  - {fileID: 11400000, guid: f4563c144becec0468d4feb70e27a9d6, type: 2}
+  - {fileID: 11400000, guid: e7e6baa4104be1343af7f5be62a79a77, type: 2}
+  - {fileID: 11400000, guid: 23e4fb1db42bbb040a384179e42572ab, type: 2}
+  - {fileID: 11400000, guid: 202081d27d4d22b45a3c3dca4bc05ff5, type: 2}
+  - {fileID: 11400000, guid: b579ea962e0f47d47aab21338249e0b0, type: 2}
+  - {fileID: 11400000, guid: 8d991dc36e004c04896bdd2533675bb8, type: 2}
+  - {fileID: 11400000, guid: ac0f5e97773160740b7dd28356f7bae4, type: 2}
+  - {fileID: 11400000, guid: 84a57dd4b4609824294138abf2dbd309, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

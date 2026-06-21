@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LogrosTorresNegras Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: LogrosTorresNegras
+  m_TableCollectionNameGuidString: e40a35569874e844180d2b815babd7e5
+  m_Entries:
+  - m_Id: 4715597824
+    m_Key: TorresNegras1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7630639104
+    m_Key: TorresNegras3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11153854464
+    m_Key: TorresNegras5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13875957760
+    m_Key: TorresNegras7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19412439040
+    m_Key: TorresNegras10
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7612479122787795039
+  references:
+    version: 2
+    RefIds:
+    - rid: 7612479122787795039
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1758407025899

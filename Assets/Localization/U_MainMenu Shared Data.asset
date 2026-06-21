@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: U_MainMenu Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: U_MainMenu
+  m_TableCollectionNameGuidString: 26cfa7ca32ae7684fbebe1f6dd0c4c90
+  m_Entries:
+  - m_Id: 166097727488
+    m_Key: mainmenu_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 532805726208
+    m_Key: login_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 586060804096
+    m_Key: info_signin_options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611696390144
+    m_Key: terms_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7239757869056
+    m_Key: guest_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4986084770598912
+    m_Key: Loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109439015100338176
+    m_Key: OficialWeb
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 4086864275800326436
+  m_KeyGenerator:
+    rid: 4086864275800326405
+  references:
+    version: 2
+    RefIds:
+    - rid: 4086864275800326405
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1755629054641
+    - rid: 4086864275800326436
+      type: {class: PreloadAssetTableMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_PreloadBehaviour: 1

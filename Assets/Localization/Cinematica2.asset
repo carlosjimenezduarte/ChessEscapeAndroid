@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Cinematica2
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 96de11300926c0d4e9b8e616013fe5be, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 7dd22257ed87b1f49a9b450150a2049a, type: 2}
+  - {fileID: 11400000, guid: c90f9b5153479264894fb2496bf25ed9, type: 2}
+  - {fileID: 11400000, guid: 035d37862291ab34f8f7b471bc2c9e38, type: 2}
+  - {fileID: 11400000, guid: e81825c3341cf9f498ff2d34bfccd630, type: 2}
+  - {fileID: 11400000, guid: 9d366f9f7c245924ba81c3312bf1be95, type: 2}
+  - {fileID: 11400000, guid: c46f771669d754449bc0f1313a385d5a, type: 2}
+  - {fileID: 11400000, guid: c7e1c15e961f63a4d8f9c5934d9e6332, type: 2}
+  - {fileID: 11400000, guid: f6c7b7fd866305d4eb0a22365d37a0a9, type: 2}
+  - {fileID: 11400000, guid: cfbf9fe8ecb64b74bbeffeba2237fc61, type: 2}
+  - {fileID: 11400000, guid: 402bbeae2feae9843b5af8907fbb839f, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

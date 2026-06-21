@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LogroMonedasdelReino_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 30663219bdf73bd438a95fb389baa610, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7425118208
+    m_Localized: Numismatist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10180775936
+    m_Localized: Obtain 10 Kingdom Coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12865130496
+    m_Localized: Treasurer of the Kingdom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15918583808
+    m_Localized: Obtain 100 Kingdom Coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21455065088
+    m_Localized: Millionaire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70817828864
+    m_Localized: Obtain 250 Kingdom Coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76316561408
+    m_Localized: Multimillionaire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90140987392
+    m_Localized: Obtain 500 Kingdom Coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92221362176
+    m_Localized: Lord of Gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237176508416
+    m_Localized: Obtain 1000 Kingdom Coins
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

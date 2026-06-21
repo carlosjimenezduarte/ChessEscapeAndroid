@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: EstrategaBlanco
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 3cf3060f8fa8ddd41b5a3fabfcb61566, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 8fdd6ff5c8842a748a9dd4dc19f4975f, type: 2}
+  - {fileID: 11400000, guid: 66b11de05848df04e8083d9edf18d7c2, type: 2}
+  - {fileID: 11400000, guid: 741f6633c362eb94b9cb4de3a4e0224b, type: 2}
+  - {fileID: 11400000, guid: a62332904697a7740bccc9467fdceac0, type: 2}
+  - {fileID: 11400000, guid: f4662c49210ebd046b637e73c167eb8a, type: 2}
+  - {fileID: 11400000, guid: 32d4c232757c5e14f8161f81d79515f1, type: 2}
+  - {fileID: 11400000, guid: 8f18670deae903941a7af751c6f26dc3, type: 2}
+  - {fileID: 11400000, guid: 20ce97fe074b4774ab5f7c5400d4c6d2, type: 2}
+  - {fileID: 11400000, guid: a58bf2b22364c0b4e9b5a32e47ee3d26, type: 2}
+  - {fileID: 11400000, guid: dba49630609288546bc78c520ef65aeb, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

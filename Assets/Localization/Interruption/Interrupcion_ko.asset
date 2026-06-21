@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Interrupcion_ko
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: 21c1a3b5cbb6b06428b2cb621c1b0057, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 93892784128
+    m_Localized: "\uC778\uD130\uB7FD\uC158"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114822361088
+    m_Localized: "\uBAA8\uB4E0 \uC544\uAD70 \uB9D0\uC758 \uC774\uB3D9 \uBC0F \uACF5\uACA9
+      \uBC94\uC704\uB97C \uB055\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147235942400
+    m_Localized: "\uBAA8\uB4E0 \uC801\uAD70 \uB9D0\uC758 \uC774\uB3D9 \uBC0F \uACF5\uACA9
+      \uBC94\uC704\uB97C \uB055\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 175757209600
+    m_Localized: "\uD6A8\uACFC\uB97C \uBC1C\uB3D9\uD55C \uC544\uAD70 \uB9D0\uC5D0\uB294
+      \uC601\uD5A5\uC744 \uC8FC\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368732942336
+    m_Localized: "\uC544\uAD70 \uB9D0\uB9CC \uC0AC\uC6A9\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

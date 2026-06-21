@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: NivelesDesafio_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 5db489a6f6c97e54bb9f2d4cf9dffb3d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6515114266624
+    m_Localized: Ein Herausforderungslevel steht bevor!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6534194155520
+    m_Localized: "Wenn du die Troph\xE4e erh\xE4ltst, wird dein Gl\xFCck wachsen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6553756389376
+    m_Localized: "Wenn du die Schriftrolle erh\xE4ltst, steigst du im Rang auf."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6586543263744
+    m_Localized: "Wenn du die Auszeichnung erh\xE4ltst, steigst du im Rang auf."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404795457536
+    m_Localized: Du kannst!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

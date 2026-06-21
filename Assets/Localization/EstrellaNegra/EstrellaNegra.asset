@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: EstrellaNegra
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 5b68780df21d3364998091a78c061321, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 9b87a21ca2146d741af1983477b1c493, type: 2}
+  - {fileID: 11400000, guid: 9b3baa3af562d9b4099e4767a7c974e4, type: 2}
+  - {fileID: 11400000, guid: 642f81c1a54c0eb4da7e37e46eb334aa, type: 2}
+  - {fileID: 11400000, guid: 0481b37945d788f489afdfa10d719b7d, type: 2}
+  - {fileID: 11400000, guid: a595e82911a40d74192c3fb6c6dab8c1, type: 2}
+  - {fileID: 11400000, guid: 6b9b7208e30266845af6293633cd9856, type: 2}
+  - {fileID: 11400000, guid: 08064d854ee9bf84e9613dda50b1c3e8, type: 2}
+  - {fileID: 11400000, guid: fffdbbb81c81b4349bc4d955f90342ae, type: 2}
+  - {fileID: 11400000, guid: 2b3725f2fedb6774c8f4cf6bdf87797a, type: 2}
+  - {fileID: 11400000, guid: 86cde372d69af8a45990603c4e08e629, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

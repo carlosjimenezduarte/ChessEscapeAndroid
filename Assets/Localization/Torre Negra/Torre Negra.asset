@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Torre Negra
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: b1fe0c33fa79be44f8cb682357a23ebd, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 820847b28f6001b4995756f384971dd6, type: 2}
+  - {fileID: 11400000, guid: 38e733f6441d8fd41b000b5d7fbda9bd, type: 2}
+  - {fileID: 11400000, guid: 47f4caa76fdfb2f49a14a95e84ded14a, type: 2}
+  - {fileID: 11400000, guid: 7b6ca9b309afeaf4f8ed7f2e3905ce7b, type: 2}
+  - {fileID: 11400000, guid: a7237d0a41600ef4d8e4deab6d83e309, type: 2}
+  - {fileID: 11400000, guid: 68628c312657a8d4ea95a50df5de85ec, type: 2}
+  - {fileID: 11400000, guid: 51c61bb8771193b4492b18a67263506e, type: 2}
+  - {fileID: 11400000, guid: 896ebb770856d404c9ac9711337ee98d, type: 2}
+  - {fileID: 11400000, guid: 995ce736d91871b469df8f04f66c973f, type: 2}
+  - {fileID: 11400000, guid: 2647e24979189ff44a7b5a519c847fb5, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

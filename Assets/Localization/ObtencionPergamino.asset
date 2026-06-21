@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: ObtencionPergamino
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 79dba71c735806942b14e3630f678dbb, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 155dc299a24cc01459eb5ffadce1482d, type: 2}
+  - {fileID: 11400000, guid: bb606c339be5d604693a7031fbdcda73, type: 2}
+  - {fileID: 11400000, guid: ae6212c951fb50b40b1f07eec868450e, type: 2}
+  - {fileID: 11400000, guid: 744e2f80d4465d845a8a48b379f01d5a, type: 2}
+  - {fileID: 11400000, guid: d74d993085dbd884eb3a6ead982a1009, type: 2}
+  - {fileID: 11400000, guid: 47d868f140f701442a879c14c948bc3d, type: 2}
+  - {fileID: 11400000, guid: b127f13169da654429dc5a6adffc91b3, type: 2}
+  - {fileID: 11400000, guid: 221f25cbd4c02844daa7e9baea305c29, type: 2}
+  - {fileID: 11400000, guid: c80c73d29ba59b14a9a14a4989f88d88, type: 2}
+  - {fileID: 11400000, guid: 8122fe47fd012bc49a98511b5408e441, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

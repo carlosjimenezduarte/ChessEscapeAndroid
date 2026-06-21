@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Vortex_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 51d4c1fab67e2a54cb3dd5ab7c676665, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 58178285568
+    m_Localized: Sends the King back to the starting position of the game.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 162499014656
+    m_Localized: If it is occupied, sends him to the nearest available square.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 185311834112
+    m_Localized: Eliminates Allied Pieces.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212289597440
+    m_Localized: Can only be used by Allied Pieces.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23654969344
+    m_Localized: Vortex
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

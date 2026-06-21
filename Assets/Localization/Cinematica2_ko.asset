@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cinematica2_ko
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: 96de11300926c0d4e9b8e616013fe5be, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10415656960
+    m_Localized: "100\uBC88\uC9F8 \uBC29\uC5D0 \uB3C4\uCC29\uD588\uC744 \uB54C, \uADF8
+      \uB0A8\uC790\uB294 \uB73B\uBC16\uC758 \uBC29\uBB38\uC744 \uBC1B\uC558\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13158731776
+    m_Localized: "\uC9C0\uB2C8\uB294 \uADF8\uC758 \uD5CC\uC2E0\uC744 \uCD95\uD558\uD558\uBA70
+      \uB05D\uAE4C\uC9C0 \uC778\uB0B4\uD560 \uAC83\uC744 \uACA9\uB824\uD588\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17453699072
+    m_Localized: "\uADF8\uB9AC\uACE0 \uC804\uC124\uC758 \uBCF4\uBB3C\uC0C1\uC790\uC758
+      \uC874\uC7AC\uC5D0 \uB300\uD574 \uC774\uC57C\uAE30\uD588\uB2E4\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20037390336
+    m_Localized: "\u201C\u2026\uC131\uC2A4\uB7EC\uC6B4 \uC5F4\uC1E0\uC758 \uC138
+      \uC870\uAC01\uC73C\uB85C\uB9CC \uC5F4 \uC218 \uC788\uB294 \uBCF4\uBB3C\uC774\uB2E4.\u201D
+      \uC9C0\uB2C8\uAC00 \uB2E8\uC5B8\uD588\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22855962624
+    m_Localized: "\u201C\uADF8 \uC0C1\uC790\uB97C \uC5F4 \uC218 \uC788\uB2E4\uBA74,
+      \uB108\uB294 \uB2E8\uC21C\uD55C \uB9D0\uC774 \uC544\uB2C8\uB77C\u2026 \uC9C4\uC815\uD55C
+      \uB300\uAD00\uC655\uC774 \uB420 \uAC83\uC774\uB2E4.\u201D \uC9C0\uB2C8\uB294
+      \uD655\uC2E0\uC2DC\uCF30\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27385810944
+    m_Localized: "\uADF8 \uC57D\uC18D\uC73C\uB85C \uB0A8\uC790\uB294 \uD798\uC744
+      \uB418\uCC3E\uACE0 \uC544\uC9C1 \uAE30\uB2E4\uB9AC\uB294 \uB3C4\uC804\uC744
+      \uBC1B\uC544\uB4E4\uC600\uB2E4."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

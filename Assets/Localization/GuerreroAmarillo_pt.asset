@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GuerreroAmarillo_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: ea8da3ba8e48e1f4388fb1b43de879d3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 16686141440
+    m_Localized: Guerreiro Amarelo 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45471649792
+    m_Localized: Derrotar 1 Cavalo Vermelho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60508229632
+    m_Localized: Guerreiro Amarelo 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73124696064
+    m_Localized: Derrotar 5 Cavalos Vermelhos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91172786176
+    m_Localized: Guerreiro Amarelo 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101675323392
+    m_Localized: Derrotar 15 Cavalos Vermelhos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119459172352
+    m_Localized: Guerreiro Amarelo 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146202054656
+    m_Localized: Derrotar 20 Cavalos Vermelhos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 182679916544
+    m_Localized: Guerreiro Amarelo 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 198177869824
+    m_Localized: Derrotar 30 Cavalos Vermelhos
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

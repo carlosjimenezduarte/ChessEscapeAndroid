@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: EstrategaBlanco_ja
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ja
+  m_SharedData: {fileID: 11400000, guid: 3cf3060f8fa8ddd41b5a3fabfcb61566, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 270479282176
+    m_Localized: "\u767D\u306E\u6226\u7565\u5BB6 1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297159249920
+    m_Localized: "\u8D64\u306E\u30DD\u30FC\u30F3\u30921\u4F53\u5012\u3059"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316549517312
+    m_Localized: "\u767D\u306E\u6226\u7565\u5BB6 2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 326716510208
+    m_Localized: "\u8D64\u306E\u30DD\u30FC\u30F3\u309225\u4F53\u5012\u3059"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 346513625088
+    m_Localized: "\u767D\u306E\u6226\u7565\u5BB6 3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355510407168
+    m_Localized: "\u8D64\u306E\u30DD\u30FC\u30F3\u309250\u4F53\u5012\u3059"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376515481600
+    m_Localized: "\u767D\u306E\u6226\u7565\u5BB6 4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387085127680
+    m_Localized: "\u8D64\u306E\u30DD\u30FC\u30F3\u309275\u4F53\u5012\u3059"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 408153116672
+    m_Localized: "\u767D\u306E\u6226\u7565\u5BB6 5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420635365376
+    m_Localized: "\u8D64\u306E\u30DD\u30FC\u30F3\u3092100\u4F53\u5012\u3059"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

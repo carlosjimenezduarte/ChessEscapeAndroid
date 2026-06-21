@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ReinaNegraHonors Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ReinaNegraHonors
+  m_TableCollectionNameGuidString: c401fd79d8ca7354ea1f71d6936f0efd
+  m_Entries:
+  - m_Id: 18611326976
+    m_Key: ReinaNegraIDan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57433804800
+    m_Key: "ReinaNegraIDanDescripci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66493501440
+    m_Key: ReinaNegraIIDan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95924932608
+    m_Key: "ReinaNegraIIDanDescripci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102300274688
+    m_Key: ReinaNegraIIIDan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120415473664
+    m_Key: "ReinaNegraIIIDanDescripci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123838025728
+    m_Key: ReinaNegraIVDan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155882508288
+    m_Key: "ReinaNegraIVDanDescripci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 159003070464
+    m_Key: ReinaNegraVDan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435424481280
+    m_Key: "ReinaNegraVDanDescripci\xF3n"
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7612479144648507396
+  references:
+    version: 2
+    RefIds:
+    - rid: 7612479144648507396
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1758489747552

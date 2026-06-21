@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Creditos_ja
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ja
+  m_SharedData: {fileID: 11400000, guid: a0abd072a5f9f8a41800e8b24273a65c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 25750032384
+    m_Localized: "\u30AA\u30EA\u30B8\u30CA\u30EB\u30A2\u30A4\u30C7\u30A2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64870305792
+    m_Localized: "\u30BD\u30D5\u30C8\u30A6\u30A7\u30A2\u30A2\u30FC\u30AD\u30C6\u30AF\u30C1\u30E3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102757453824
+    m_Localized: "\u30BD\u30D5\u30C8\u30A6\u30A7\u30A2\u958B\u767A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149029015552
+    m_Localized: "\u30D3\u30B8\u30E5\u30A2\u30EB\u30C7\u30B6\u30A4\u30F3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 175369244672
+    m_Localized: "\u97F3\u697D\u3068\u30B5\u30A6\u30F3\u30C9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 206440648704
+    m_Localized: "\u30D7\u30ED\u30C7\u30E5\u30FC\u30B5\u30FC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269787222016
+    m_Localized: "\u8B1D\u8F9E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235427483648
+    m_Localized: "Unity\u3067\u958B\u767A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617970007363584
+    m_Localized: "\u795E\u306B\u3059\u3079\u3066\u306E\u6804\u5149\u3092"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

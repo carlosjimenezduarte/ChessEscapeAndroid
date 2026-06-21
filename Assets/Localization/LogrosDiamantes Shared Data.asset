@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LogrosDiamantes Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: LogrosDiamantes
+  m_TableCollectionNameGuidString: e3bed9f69c672ff4ba388e15aef4f682
+  m_Entries:
+  - m_Id: 8414973952
+    m_Key: Logro1Diamantes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35732475904
+    m_Key: 1DiamantesDescripcion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74118746112
+    m_Key: Logro2Diamantes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108914692096
+    m_Key: 2DiamantesDescripcion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138471952384
+    m_Key: Logro3Diamantes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156863975424
+    m_Key: 3DiamantesDescripcion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181555843072
+    m_Key: Logro4Diamantes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 196927967232
+    m_Key: 4DiamantesDescripcion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219107446784
+    m_Key: Logro5Diamantes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 239810531328
+    m_Key: 5DiamantesDescripcion
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7612479032432001025
+  references:
+    version: 2
+    RefIds:
+    - rid: 7612479032432001025
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1758056556663

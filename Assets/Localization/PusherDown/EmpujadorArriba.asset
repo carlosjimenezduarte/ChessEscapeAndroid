@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: EmpujadorArriba
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: c292d1ac4011857478335d0d59958e66, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 3af94b374b68acb419aff07aa4c8ff94, type: 2}
+  - {fileID: 11400000, guid: a19823ac883be2d4daf31c0280e16448, type: 2}
+  - {fileID: 11400000, guid: 937a197bee91c5142ace32b39a2880ec, type: 2}
+  - {fileID: 11400000, guid: 737c5f4eba3872241b3955ca638107ee, type: 2}
+  - {fileID: 11400000, guid: 6894dddd6e70c514b9aae3d017ff30f5, type: 2}
+  - {fileID: 11400000, guid: 23ae01cd4b25c9f4daf9b8cff796eb73, type: 2}
+  - {fileID: 11400000, guid: f2d8d3813022723418640356343f540c, type: 2}
+  - {fileID: 11400000, guid: 7911c19507aefa644afb9db10d23991d, type: 2}
+  - {fileID: 11400000, guid: 662d08d8c38e9ed45ad8a231af92ddc9, type: 2}
+  - {fileID: 11400000, guid: a9e0ef5e13a22104eb87129ec01bf8a6, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

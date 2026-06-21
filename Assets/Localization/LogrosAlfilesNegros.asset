@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: LogrosAlfilesNegros
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 16255323ae465b44b8dbe0aa5ca1f068, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 67464b7e898112e4a882a5835ca5503d, type: 2}
+  - {fileID: 11400000, guid: 2f3a1a66117f4544c96145eda8d91779, type: 2}
+  - {fileID: 11400000, guid: 5c8230d6e19bdd041ace20b2a92140b7, type: 2}
+  - {fileID: 11400000, guid: e36d81bd1c2d5014c85c7d4c432bdb16, type: 2}
+  - {fileID: 11400000, guid: 4640007adaa683246a062f587974e229, type: 2}
+  - {fileID: 11400000, guid: 1ae8868cb5832a7479bfd1e4283ceb83, type: 2}
+  - {fileID: 11400000, guid: 339303436949e1f4eb44931c4b968060, type: 2}
+  - {fileID: 11400000, guid: dc75d504270fb6e43b01963cd1f1689b, type: 2}
+  - {fileID: 11400000, guid: 11274b70b4e8d734db67a7037d248595, type: 2}
+  - {fileID: 11400000, guid: 497c369c5c17f2c4481d11239f4b3cc9, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: CombatienteNaranja
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: d27adc3fe530dd946af51d0fc5830314, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 3c8e60ed050f9004ca3f11115556dd26, type: 2}
+  - {fileID: 11400000, guid: b82319ca58f1f6348b7fc297c0bd1941, type: 2}
+  - {fileID: 11400000, guid: a91d04efcfd2edd44adabb41d4079e5b, type: 2}
+  - {fileID: 11400000, guid: 6cd90c4a5dc5c514aa2f2605d1e6e999, type: 2}
+  - {fileID: 11400000, guid: a2c5d70e3c629bd47a886179e8da8b32, type: 2}
+  - {fileID: 11400000, guid: c3302b1a75c07aa41b94aa1aac06dd21, type: 2}
+  - {fileID: 11400000, guid: e92fea80fa35c9b499b72693f2e4bc04, type: 2}
+  - {fileID: 11400000, guid: ba9b4f9ab8becf846bcaa1ff929045aa, type: 2}
+  - {fileID: 11400000, guid: c14a904a5d1f60d448b6a2288220c9a6, type: 2}
+  - {fileID: 11400000, guid: 1c403461e26451d4c8317e2895144505, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

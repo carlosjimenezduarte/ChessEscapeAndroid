@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: LogrosPergaminos
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 86de968315c8a634cab9f8c50f65810f, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 9c1d9f48ce4daab45a37015ebe331341, type: 2}
+  - {fileID: 11400000, guid: 38887ea3822ed5549bc37bbef8377fc7, type: 2}
+  - {fileID: 11400000, guid: 8924e1c3faf2a4448bbddb6700641493, type: 2}
+  - {fileID: 11400000, guid: c80562d224568b643b491cb5c9f9ba86, type: 2}
+  - {fileID: 11400000, guid: e0ca4f7d6d08b7546a854584898a3678, type: 2}
+  - {fileID: 11400000, guid: a6d3b9989d0c87b4e91be753704533cd, type: 2}
+  - {fileID: 11400000, guid: cd516673eb1302e4e910a5f55e5f75f5, type: 2}
+  - {fileID: 11400000, guid: e8a193636733c6b4a912221f7e08815d, type: 2}
+  - {fileID: 11400000, guid: 28ca863e55a91e6478ce14f30e85c071, type: 2}
+  - {fileID: 11400000, guid: 5825a4810ccda274ab99e80b99a95350, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

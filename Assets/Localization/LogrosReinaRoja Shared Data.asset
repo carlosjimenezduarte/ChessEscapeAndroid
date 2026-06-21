@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LogrosReinaRoja Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: LogrosReinaRoja
+  m_TableCollectionNameGuidString: 365593bbf73510e499dfbbef883aa967
+  m_Entries:
+  - m_Id: 9601961984
+    m_Key: ReinaRoja1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11992715264
+    m_Key: ReinaRoja15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14710624256
+    m_Key: ReinaRoja30
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17596305408
+    m_Key: ReinaRoja40
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20683313152
+    m_Key: ReinaRoja50
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7612479122787795035
+  references:
+    version: 2
+    RefIds:
+    - rid: 7612479122787795035
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1758403357768

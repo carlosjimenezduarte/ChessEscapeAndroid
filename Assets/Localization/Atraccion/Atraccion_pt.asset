@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Atraccion_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 3c5c6da1a4b6dfd4ea41eb610c38498f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 16348491776
+    m_Localized: "Atra\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98691067904
+    m_Localized: "Atrai todas as pe\xE7as e objetos do mapa 1 casa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124125327360
+    m_Localized: "N\xE3o afeta a pe\xE7a aliada que ativa o efeito."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135466725376
+    m_Localized: "S\xF3 pode ser usada pelas pe\xE7as aliadas."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

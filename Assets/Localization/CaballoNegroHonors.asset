@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: CaballoNegroHonors
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: d655e1b1dfcd6a24f90d3e75b902338a, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: a78830ca7f31eb74c8ac241c77887523, type: 2}
+  - {fileID: 11400000, guid: 4b2d77594d4c2f5439098a070cdd422a, type: 2}
+  - {fileID: 11400000, guid: 8f5e540cf4464cf42b5e7062b11c398d, type: 2}
+  - {fileID: 11400000, guid: 46db6982239a80e43a1a3b8cb0849090, type: 2}
+  - {fileID: 11400000, guid: d72b571a794043d42ae56f3971e00d61, type: 2}
+  - {fileID: 11400000, guid: 31eab89afc0046048873ef5b3d572d78, type: 2}
+  - {fileID: 11400000, guid: 2a71f203650362549862bfece52f037e, type: 2}
+  - {fileID: 11400000, guid: dd48c73085d8d594f9cd8f129f0ff369, type: 2}
+  - {fileID: 11400000, guid: 6be36cee579575441863b6574752ae2f, type: 2}
+  - {fileID: 11400000, guid: fb5a530df618f2a408f612fb69134a1c, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

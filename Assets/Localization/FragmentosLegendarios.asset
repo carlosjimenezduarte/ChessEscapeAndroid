@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: FragmentosLegendarios
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: a75ccd71f250b28498d6d4e7e1dea5e1, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 4497985e2e3d6f64dbdd9b38fc8b8d26, type: 2}
+  - {fileID: 11400000, guid: 7c2fdbc6f6143724cbe75766bf28851f, type: 2}
+  - {fileID: 11400000, guid: 45ebd56494fa695458547016d0c8b96a, type: 2}
+  - {fileID: 11400000, guid: 2e28d456df43b6a4193baf68a687b3af, type: 2}
+  - {fileID: 11400000, guid: 34341b894a953b24a9ca2fbe3168b69d, type: 2}
+  - {fileID: 11400000, guid: 6f4b3aac5045b4f47949e2b8a3c88831, type: 2}
+  - {fileID: 11400000, guid: 9de5b70e79d38c74db197e6a9e29817e, type: 2}
+  - {fileID: 11400000, guid: 0b1c0c6303ec71a4abf9a0c7b88352f6, type: 2}
+  - {fileID: 11400000, guid: db4d77195c567e44ea16a650077c390e, type: 2}
+  - {fileID: 11400000, guid: ac0b2bc77d306e14c869fc339401b9e9, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

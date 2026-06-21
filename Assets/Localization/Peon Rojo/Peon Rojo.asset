@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Peon Rojo
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 9bfcf238c14f8e14688a70cb6dd7ee27, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: a7c38c39ef1a69748b7e4703ada97741, type: 2}
+  - {fileID: 11400000, guid: d1febd78186db3d47a5dd3f07ae781a0, type: 2}
+  - {fileID: 11400000, guid: 786b1949e41224b408a05b8f84abe946, type: 2}
+  - {fileID: 11400000, guid: df6d05341e83bdc4da4ec0d30e37b8c0, type: 2}
+  - {fileID: 11400000, guid: 4448b4ec5dceb5b428adef117f539251, type: 2}
+  - {fileID: 11400000, guid: a471123fcd5a6e140a6fd04d67055270, type: 2}
+  - {fileID: 11400000, guid: ad14ff23dfd8cc448912cff8c4d7b387, type: 2}
+  - {fileID: 11400000, guid: 726a7b4724f27d141b05d4a17bf29bb3, type: 2}
+  - {fileID: 11400000, guid: 9d8e4f9199254bb469f65dd45a62ea92, type: 2}
+  - {fileID: 11400000, guid: e647ba7a99147e1488519fcfd4841072, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

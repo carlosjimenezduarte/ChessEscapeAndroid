@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: GuerreroAmarillo
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: ea8da3ba8e48e1f4388fb1b43de879d3, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 9014db9c03e6524429f0f0253274bd0c, type: 2}
+  - {fileID: 11400000, guid: 7264b4ab35b5af5479095462c8122d9a, type: 2}
+  - {fileID: 11400000, guid: aeb106cc29c7ee944971b1857c2026f7, type: 2}
+  - {fileID: 11400000, guid: d030376c505fcc140a4b391167431518, type: 2}
+  - {fileID: 11400000, guid: 0c54e328c51891d4d9b423c2eecc72c8, type: 2}
+  - {fileID: 11400000, guid: 174823972a473b44399ac5595f56335d, type: 2}
+  - {fileID: 11400000, guid: aab817bfa4f0e8c49b6b56a2c8cf4b55, type: 2}
+  - {fileID: 11400000, guid: cf7df2394161c1c4ba9f3e19595cd2c6, type: 2}
+  - {fileID: 11400000, guid: 5d731dc00cea0964ba7259e5443b45ee, type: 2}
+  - {fileID: 11400000, guid: 989294a00763b0544a3617ee2b84bd75, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

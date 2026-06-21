@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Arcangeles
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: a80abd47fbe7e0549871fa4fff10937c, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: f7a9269a69edcb94e806fbfeeb597cc6, type: 2}
+  - {fileID: 11400000, guid: c13dbab6d6d575542963bda6c77a7e8c, type: 2}
+  - {fileID: 11400000, guid: 5e712506d05a14641a04cdfb6332f5ad, type: 2}
+  - {fileID: 11400000, guid: cab64375d32ba2d44916b63282f312eb, type: 2}
+  - {fileID: 11400000, guid: f8772caf363544141b06efbe178be313, type: 2}
+  - {fileID: 11400000, guid: ab363d9b88a8376409c34630b2ad384b, type: 2}
+  - {fileID: 11400000, guid: 93e5380257559ca4f81da46f18da7120, type: 2}
+  - {fileID: 11400000, guid: c275405f5ce522443ac31b551e640e91, type: 2}
+  - {fileID: 11400000, guid: d0e9b6247a38ecc49aacc01738175764, type: 2}
+  - {fileID: 11400000, guid: d6aa3388cdb606c4d8d577229cac0df9, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

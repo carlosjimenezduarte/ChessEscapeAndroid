@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: UltimosNiveles
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: d30a74d5a5b367642a823a78f3e04710, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 329d98beefb73914489a09cc40ff4e6e, type: 2}
+  - {fileID: 11400000, guid: 1f7311559d6b78b4185e2ec7d36ec4c3, type: 2}
+  - {fileID: 11400000, guid: 5d24f284404955646be7b35b0fe605f7, type: 2}
+  - {fileID: 11400000, guid: 5ef18e155ad123e43a2c4906614113cc, type: 2}
+  - {fileID: 11400000, guid: 584fdf57be4c46044b035df44bd575ea, type: 2}
+  - {fileID: 11400000, guid: c1421a963e58ad24f96971a961c6e70c, type: 2}
+  - {fileID: 11400000, guid: ddb652a220e98a5429c9e764638388fa, type: 2}
+  - {fileID: 11400000, guid: b4b3a5f359491404489310b3e9638f6f, type: 2}
+  - {fileID: 11400000, guid: f785d1881f273404ab53faa1af57d69e, type: 2}
+  - {fileID: 11400000, guid: 365c929d3288bff4e85d417dbef9ab1d, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AlfilNegroHonors_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: dd063eae01bfe9e48a51d93694f4be29, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11552313344
+    m_Localized: Black Bishop I Dan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41990377472
+    m_Localized: Defeat 1 Black Bishop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67286224896
+    m_Localized: Black Bishop II Dan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95677468672
+    m_Localized: Defeat 3 Black Bishops
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127956832256
+    m_Localized: Black Bishop III Dan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 198148509696
+    m_Localized: Defeat 5 Black Bishops
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216741859328
+    m_Localized: Black Bishop IV Dan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259590868992
+    m_Localized: Defeat 7 Black Bishops
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292470018048
+    m_Localized: Black Bishop V Dan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388502802432
+    m_Localized: Defeat 10 Black Bishops
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

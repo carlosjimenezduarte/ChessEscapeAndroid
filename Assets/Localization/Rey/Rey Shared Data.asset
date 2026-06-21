@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Rey Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Rey
+  m_TableCollectionNameGuidString: f07f9eb15e4a29645b1135e83c74f3d0
+  m_Entries:
+  - m_Id: 12934328320
+    m_Key: King_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67623858176
+    m_Key: King_lives
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96178679808
+    m_Key: King_MP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136511107072
+    m_Key: King_PA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 173928493056
+    m_Key: Attacks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 200897867776
+    m_Key: Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3516105109504
+    m_Key: KingAttacks_description
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4086864296784953344
+  references:
+    version: 2
+    RefIds:
+    - rid: 4086864296784953344
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1755701702282

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Vortex_ja
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ja
+  m_SharedData: {fileID: 11400000, guid: 51d4c1fab67e2a54cb3dd5ab7c676665, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 23654969344
+    m_Localized: "\u30DC\u30EB\u30C6\u30C3\u30AF\u30B9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58178285568
+    m_Localized: "\u738B\u3092\u30B2\u30FC\u30E0\u306E\u521D\u671F\u4F4D\u7F6E\u306B\u9001\u308B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 162499014656
+    m_Localized: "\u305D\u3053\u304C\u57CB\u307E\u3063\u3066\u3044\u308B\u5834\u5408\u3001\u6700\u3082\u8FD1\u3044\u7A7A\u304D\u30DE\u30B9\u306B\u9001\u308B\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 185311834112
+    m_Localized: "\u5473\u65B9\u306E\u99D2\u3092\u6D88\u53BB\u3059\u308B\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212289597440
+    m_Localized: "\u5473\u65B9\u306E\u99D2\u306E\u307F\u4F7F\u7528\u53EF\u80FD\u3002"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

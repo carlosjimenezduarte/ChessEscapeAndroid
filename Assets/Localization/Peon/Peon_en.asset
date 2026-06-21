@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Peon_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 87d7fab5a655c284ca0c105250e3e669, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 45687648256
+    m_Localized: Pawn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68731154432
+    m_Localized: Movement Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108426047488
+    m_Localized: Attack Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 144127963136
+    m_Localized: Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215330467840
+    m_Localized: Horizontal and vertical
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284049944576
+    m_Localized: Attacks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321832235008
+    m_Localized: Diagonal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 367571120128
+    m_Localized: Consumes 1 AP from the King for each movement. Upon reaching the
+      exit square, grants the King 7 MP, 7 AP and 7 Lives.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

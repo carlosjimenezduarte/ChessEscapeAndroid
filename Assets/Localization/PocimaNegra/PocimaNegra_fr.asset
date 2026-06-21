@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: PocimaNegra_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: d025ecd707b217749a922b235a699c88, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 23352979456
+    m_Localized: Potion Noire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57335230464
+    m_Localized: Effets sur le Roi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93842452480
+    m_Localized: -5 PM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107868205056
+    m_Localized: Effets sur la Reine, la Tour, le Fou et le Pion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130249011200
+    m_Localized: "-5 port\xE9e de mouvement"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150452973568
+    m_Localized: Effets sur le Cavalier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 174171762688
+    m_Localized: -5 PA
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

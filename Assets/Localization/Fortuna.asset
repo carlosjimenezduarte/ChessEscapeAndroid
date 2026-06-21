@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Fortuna
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 15b28938905b4a048817b5de493b3586, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 656c4467a7e19304c8d355df02af056b, type: 2}
+  - {fileID: 11400000, guid: ffbc4c6afff505644ae320febbe62999, type: 2}
+  - {fileID: 11400000, guid: 589557e8b13265e46ab63be581feaed7, type: 2}
+  - {fileID: 11400000, guid: 58e11f4217a164a4eb34d96589bd6a49, type: 2}
+  - {fileID: 11400000, guid: 7b524a38addcbc64d9e5de8c194bec57, type: 2}
+  - {fileID: 11400000, guid: 2379bc388a09b4549bb4742e735a77ff, type: 2}
+  - {fileID: 11400000, guid: ff7af116a8cee584c87d4c49c136d862, type: 2}
+  - {fileID: 11400000, guid: c7ff05d1df5b74d4a87380820a387829, type: 2}
+  - {fileID: 11400000, guid: 44481e1160458624ca88db1023294f99, type: 2}
+  - {fileID: 11400000, guid: 7ef6c71f37912c64695dc45249f00ee1, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

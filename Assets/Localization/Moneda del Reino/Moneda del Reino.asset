@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Moneda del Reino
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: de6d8243cf91f194594221f4d37a3d41, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 808c09da76d0cdd49bdb3a28ef25d4da, type: 2}
+  - {fileID: 11400000, guid: f53d1dc2de870614e8bfd7ad6880e100, type: 2}
+  - {fileID: 11400000, guid: 4007ffcad89c73d47b1f40b491dd311e, type: 2}
+  - {fileID: 11400000, guid: 5835fd7805da9e1448682271ff781276, type: 2}
+  - {fileID: 11400000, guid: 8c245676c8423f64fab0313ab40680cc, type: 2}
+  - {fileID: 11400000, guid: a1ff2c99735df8049923b2a9542cc830, type: 2}
+  - {fileID: 11400000, guid: 8077e6e8f822aa94c8748066e92fa683, type: 2}
+  - {fileID: 11400000, guid: a301985c8da641545b5851bb997318f7, type: 2}
+  - {fileID: 11400000, guid: f58cecc29c6b74446ae41f3bc428872a, type: 2}
+  - {fileID: 11400000, guid: 4c5fe55554c5e7b4395bfba0f6b2d4e6, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

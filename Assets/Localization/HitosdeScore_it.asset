@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HitosdeScore_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 9d722cbb519190c4182bc7a534ea6371, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26131714048
+    m_Localized: Traguardo di Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47556218880
+    m_Localized: 50.000 punti di Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 979731894272
+    m_Localized: 10.000 punti di Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1024929714176
+    m_Localized: 20.000 punti di Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1049458003968
+    m_Localized: 30.000 punti di Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1948750336000
+    m_Localized: 100.000 punti di Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1981600124928
+    m_Localized: 200.000 punti di Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2683655311360
+    m_Localized: 40.000 punti di Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2721274023936
+    m_Localized: 60.000 punti di Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2769122643968
+    m_Localized: 70.000 punti di Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2789255303168
+    m_Localized: 80.000 punti di Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2810897911808
+    m_Localized: 90.000 punti di Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3904365547520
+    m_Localized: 120.000 punti di Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3908459188224
+    m_Localized: 140.000 punti di Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3967749869568
+    m_Localized: 160.000 punti di Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4021134970880
+    m_Localized: 180.000 punti di Score
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

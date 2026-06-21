@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Torre Roja_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 06987129ac80f9c4aa886da70ce1f917, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10644238336
+    m_Localized: Torre Vermelha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103514517504
+    m_Localized: Alcance de movimento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153443512320
+    m_Localized: Alcance de ataque letal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 200218390528
+    m_Localized: "Ataques \xE0 dist\xE2ncia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252601053184
+    m_Localized: Deslocamento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292128174080
+    m_Localized: Vertical e horizontal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330845794304
+    m_Localized: "Quando ataca \xE0 dist\xE2ncia retira 1 PM do Rei. Se for Pe\xE3o,
+      Cavalo, Bispo, Torre ou Rainha, retira tamb\xE9m 1 PA do Rei."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

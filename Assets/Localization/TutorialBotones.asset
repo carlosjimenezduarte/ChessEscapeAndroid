@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: TutorialBotones
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 9ad1219267458f3409d7569afbd649d7, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: accf23c2daf068240b64c3046d37f95f, type: 2}
+  - {fileID: 11400000, guid: d0b851f831b99f0458ca4ca368d9fe4d, type: 2}
+  - {fileID: 11400000, guid: 581d13d3d3b994043b150bb8c6610af8, type: 2}
+  - {fileID: 11400000, guid: f4ec684219dcaee43815c2d2269dcd83, type: 2}
+  - {fileID: 11400000, guid: 0eb61a5bb4bdf014e9f2b4fa592330c1, type: 2}
+  - {fileID: 11400000, guid: ad23aba46d2024741a748bfe070d7275, type: 2}
+  - {fileID: 11400000, guid: 9a32b9246abc5764da242f926179c08f, type: 2}
+  - {fileID: 11400000, guid: f413ff6ebd9403a41979888592dbda48, type: 2}
+  - {fileID: 11400000, guid: a4e20cb8e2220f440ad88f2b521600a4, type: 2}
+  - {fileID: 11400000, guid: ea43d62cf042ab04882eaf6ee2f89cdf, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

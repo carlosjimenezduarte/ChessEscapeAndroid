@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Reina Roja_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a6e40aab5a1ba6446928121f6fcbf424, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20286943232
+    m_Localized: Red Queen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495003648
+    m_Localized: Movement Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121751351296
+    m_Localized: Lethal Attack Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 180605825024
+    m_Localized: Ranged Attacks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231239462912
+    m_Localized: Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262780628992
+    m_Localized: Diagonal, vertical and horizontal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316199284736
+    m_Localized: When attacking at range, reduces 1 MP from the King. If it is a
+      Pawn, Knight, Bishop, Rook, or Queen, it also reduces 1 AP from the King.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CinturonPurpura_el
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: el
+  m_SharedData: {fileID: 11400000, guid: a011e9017f18da549941afc353b45da4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 77244040105984
+    m_Localized: "\u03A0\u03BF\u03C1\u03C6\u03C5\u03C1\u03CC\u03C2 \u039A\u03B1\u03C4\u03B1\u03BA\u03C4\u03B7\u03C4\u03AE\u03C2
+      1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77247382966272
+    m_Localized: "\u039D\u03AF\u03BA\u03B7\u03C3\u03B5 1 \u039A\u03CC\u03BA\u03BA\u03B9\u03BD\u03B7
+      \u0392\u03B1\u03C3\u03AF\u03BB\u03B9\u03C3\u03C3\u03B1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77250805518336
+    m_Localized: "\u03A0\u03BF\u03C1\u03C6\u03C5\u03C1\u03CC\u03C2 \u039A\u03B1\u03C4\u03B1\u03BA\u03C4\u03B7\u03C4\u03AE\u03C2
+      2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77254462951424
+    m_Localized: "\u039D\u03AF\u03BA\u03B7\u03C3\u03B5 15 \u039A\u03CC\u03BA\u03BA\u03B9\u03BD\u03B5\u03C2
+      \u0392\u03B1\u03C3\u03AF\u03BB\u03B9\u03C3\u03C3\u03B5\u03C2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77259592585216
+    m_Localized: "\u03A0\u03BF\u03C1\u03C6\u03C5\u03C1\u03CC\u03C2 \u039A\u03B1\u03C4\u03B1\u03BA\u03C4\u03B7\u03C4\u03AE\u03C2
+      3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77268421595136
+    m_Localized: "\u039D\u03AF\u03BA\u03B7\u03C3\u03B5 30 \u039A\u03CC\u03BA\u03BA\u03B9\u03BD\u03B5\u03C2
+      \u0392\u03B1\u03C3\u03AF\u03BB\u03B9\u03C3\u03C3\u03B5\u03C2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77271378579456
+    m_Localized: "\u03A0\u03BF\u03C1\u03C6\u03C5\u03C1\u03CC\u03C2 \u039A\u03B1\u03C4\u03B1\u03BA\u03C4\u03B7\u03C4\u03AE\u03C2
+      4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77346402095104
+    m_Localized: "\u039D\u03AF\u03BA\u03B7\u03C3\u03B5 40 \u039A\u03CC\u03BA\u03BA\u03B9\u03BD\u03B5\u03C2
+      \u0392\u03B1\u03C3\u03AF\u03BB\u03B9\u03C3\u03C3\u03B5\u03C2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77348650242048
+    m_Localized: "\u03A0\u03BF\u03C1\u03C6\u03C5\u03C1\u03CC\u03C2 \u039A\u03B1\u03C4\u03B1\u03BA\u03C4\u03B7\u03C4\u03AE\u03C2
+      5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77458742333440
+    m_Localized: "\u039D\u03AF\u03BA\u03B7\u03C3\u03B5 50 \u039A\u03CC\u03BA\u03BA\u03B9\u03BD\u03B5\u03C2
+      \u0392\u03B1\u03C3\u03AF\u03BB\u03B9\u03C3\u03C3\u03B5\u03C2"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

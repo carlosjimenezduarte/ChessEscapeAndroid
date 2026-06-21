@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: KingdomCode_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: d017ceb777f1c644187d3f576fc0f91e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8213647360
+    m_Localized: True freedom is in your heart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48143421440
+    m_Localized: Patience is power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65595920384
+    m_Localized: The soul cannot be betrayed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88714924032
+    m_Localized: Nothing true fears being revealed
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: LevelQuit
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 0b885edac69aab942a60eae643a3efe8, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 51649a64ab289e946b6b729d66dc7cc2, type: 2}
+  - {fileID: 11400000, guid: 9b85b064859be714ea8755610d9801a3, type: 2}
+  - {fileID: 11400000, guid: 0b52c49ff2d85b8448bc014a47ada389, type: 2}
+  - {fileID: 11400000, guid: 356637c8a77e1224497b065c139f44f6, type: 2}
+  - {fileID: 11400000, guid: df358468cadbc0945bd77516aca90603, type: 2}
+  - {fileID: 11400000, guid: f86fd09f87e8c6542967757f06a66db7, type: 2}
+  - {fileID: 11400000, guid: 9b1a1ef8889165744b95121c3a17f47b, type: 2}
+  - {fileID: 11400000, guid: 1bdf88677b21e594b8acb7e4f6bde8e1, type: 2}
+  - {fileID: 11400000, guid: 32aafb53df0842b4db5c0a3bd1ad8399, type: 2}
+  - {fileID: 11400000, guid: 7b7a6051bdf385b44ac0a364324ae11b, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

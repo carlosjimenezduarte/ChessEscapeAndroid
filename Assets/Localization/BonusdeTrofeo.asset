@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: BonusdeTrofeo
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: cbec649200183b049ba14c67523f8398, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 09c51adbfa0278043a73bd0fda151c1d, type: 2}
+  - {fileID: 11400000, guid: 96b734bee6c42f54398274d7f3a340c8, type: 2}
+  - {fileID: 11400000, guid: ad315c50d9eac144b8e401c4ffcdec96, type: 2}
+  - {fileID: 11400000, guid: 7fc86fcece632384b96614570161071d, type: 2}
+  - {fileID: 11400000, guid: 6f495f72d76a664408dd41444c5654bd, type: 2}
+  - {fileID: 11400000, guid: 1c63a8b299669a74c8baa30123dde1e6, type: 2}
+  - {fileID: 11400000, guid: 0761e2a3bd193a84b9f4a1e28378e77b, type: 2}
+  - {fileID: 11400000, guid: 7973b77164a88ca479cedbf437ca4cbb, type: 2}
+  - {fileID: 11400000, guid: 4a21b2b51aa245347ba73bdede905edf, type: 2}
+  - {fileID: 11400000, guid: 0f2e21a1801f8544296995d355bf3394, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

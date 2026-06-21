@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cinematica1_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: c2d267b057669f54da106f121bf5e76b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 164489220096
+    m_Localized: "Hubo un hombre que lo perdi\xF3 todo y viaj\xF3 sin rumbo durante
+      muchos a\xF1os."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170336079872
+    m_Localized: "Entre ruinas antiguas encontr\xF3 una l\xE1mpara dorada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 172420648960
+    m_Localized: "De ella surgi\xF3 un Genio resplandeciente, que ofreci\xF3 cumplir
+      un \xFAnico deseo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177554477056
+    m_Localized: "\u201CQuiero ser Rey. Quiero un Reino propio\u201D, respondi\xF3
+      el hombre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181543260160
+    m_Localized: "El Genio respondi\xF3: \u201CTu deseo ser\xE1 concedido. Pero ning\xFAn
+      Reino se entrega sin pruebas.\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 184470884352
+    m_Localized: "\u201CSi realmente quieres ser Rey, ingresa ahora mismo a esta
+      sala. Tu Reino te espera\u201D, lo invit\xF3 el Genio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186479955968
+    m_Localized: "Emocionado, el hombre entr\xF3 en la primera sala, donde descubri\xF3
+      con decepci\xF3n que estaba llena de piezas de ajedrez."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188791017472
+    m_Localized: "Y entonces el Genio convirti\xF3 al hombre en un Rey de ajedrez,
+      cuya piel se fundi\xF3 con la del tablero."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 190506487808
+    m_Localized: "Doscientas salas de prueba le esperan al Rey. Doscientas pruebas
+      para medir la convicci\xF3n de su deseo. Doscientas pruebas para conquistar
+      su propio Reino."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 193123733504
+    m_Localized: "\xBFAyudar\xE1s a este hombre a convertirse en un aut\xE9ntico
+      Rey? \xBFSer\xE1s capaz de guiarlo?"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

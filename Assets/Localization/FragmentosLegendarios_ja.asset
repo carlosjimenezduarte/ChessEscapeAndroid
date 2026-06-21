@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: FragmentosLegendarios_ja
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ja
+  m_SharedData: {fileID: 11400000, guid: a75ccd71f250b28498d6d4e7e1dea5e1, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10101084160
+    m_Localized: "\u738B\u56FD\u306E\u51A0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19865423872
+    m_Localized: "\u4F1D\u8AAC\u306E\u9375\u306E\u6700\u521D\u306E\u65AD\u7247\u3092\u7372\u5F97"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12919656448
+    m_Localized: "\u9B42\u306E\u67F1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24428826624
+    m_Localized: "\u4F1D\u8AAC\u306E\u9375\u306E2\u756A\u76EE\u306E\u65AD\u7247\u3092\u7372\u5F97"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16379957248
+    m_Localized: "\u738B\u56FD\u306E\u6B6F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38957895680
+    m_Localized: "\u4F1D\u8AAC\u306E\u9375\u306E3\u756A\u76EE\u306E\u65AD\u7247\u3092\u7372\u5F97"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

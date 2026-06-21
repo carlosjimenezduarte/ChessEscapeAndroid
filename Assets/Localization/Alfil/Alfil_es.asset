@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Alfil_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 70d828c0ccaff8247a3eaf569002f67e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 29271142400
+    m_Localized: Alfil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84325576704
+    m_Localized: Rango de movimiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139723943936
+    m_Localized: Rango de ataque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228374753280
+    m_Localized: Desplazamiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 271492198400
+    m_Localized: En diagonal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 617576804352
+    m_Localized: Ataques
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692835201024
+    m_Localized: Dentro de su rango de movimiento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748434894848
+    m_Localized: Agota 1 PA del Rey por cada desplazamiento. Al llegar a la casilla
+      de salida otorga 7PM, 7PA y 7 vidas al Rey.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

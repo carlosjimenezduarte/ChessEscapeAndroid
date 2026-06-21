@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: PocimaRoja
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: c929edd7048cb0f49b4a61f905af84b0, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: dae3727971b5a0848bdaea22dcebaa4c, type: 2}
+  - {fileID: 11400000, guid: 7551558a59abf3c468dead1ec46efec7, type: 2}
+  - {fileID: 11400000, guid: e6b9a226b5d9f444dbdacbd742379267, type: 2}
+  - {fileID: 11400000, guid: 89c4539846426ef4cafa74057dedfa74, type: 2}
+  - {fileID: 11400000, guid: 55428e60da01e7e4bb7cc38c1a17331a, type: 2}
+  - {fileID: 11400000, guid: 1f401248f15538d4db1bc7d313005865, type: 2}
+  - {fileID: 11400000, guid: 635c4ddfc8a840143aa6bba65a6372c8, type: 2}
+  - {fileID: 11400000, guid: 1e45d451ade9db7448582583fca53968, type: 2}
+  - {fileID: 11400000, guid: 026b702edce54364fa8e5bae45aeb8a3, type: 2}
+  - {fileID: 11400000, guid: b94ba1ecdb68bba428c66e582b8548ea, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

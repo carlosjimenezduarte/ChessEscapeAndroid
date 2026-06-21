@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: AlfilNegroHonors
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: dd063eae01bfe9e48a51d93694f4be29, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: f917e845f412fa7488dcc1741834fe56, type: 2}
+  - {fileID: 11400000, guid: 7aeb2a7f1ef165c468df0a058eba907d, type: 2}
+  - {fileID: 11400000, guid: eaf2fa6ad942f6142aeb5b486751b833, type: 2}
+  - {fileID: 11400000, guid: e2cf83a959c638043b23e9f9c3c1a93c, type: 2}
+  - {fileID: 11400000, guid: 8540c02699911c64789e6847432cfc08, type: 2}
+  - {fileID: 11400000, guid: 8820dc5b8896227469060552e25533ea, type: 2}
+  - {fileID: 11400000, guid: 94501b94e3e8edc4187503187aead16d, type: 2}
+  - {fileID: 11400000, guid: da09b15c1b2b0674f961365baad2298f, type: 2}
+  - {fileID: 11400000, guid: 794f9d7712b8aaf4ba741608e52e800a, type: 2}
+  - {fileID: 11400000, guid: c21326eb892ddc34597e12ee70824887, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

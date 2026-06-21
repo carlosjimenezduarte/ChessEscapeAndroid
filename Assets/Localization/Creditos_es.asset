@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Creditos_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: a0abd072a5f9f8a41800e8b24273a65c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 25750032384
+    m_Localized: Idea Original
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64870305792
+    m_Localized: Arquitectura de Software
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102757453824
+    m_Localized: Desarrollo de Software
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149029015552
+    m_Localized: "Dise\xF1o Visual"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 175369244672
+    m_Localized: "M\xFAsica y Sonido"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 206440648704
+    m_Localized: Productor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269787222016
+    m_Localized: Agradecimientos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235427483648
+    m_Localized: Desarrollado en Unity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617970007363584
+    m_Localized: A Dios sea la gloria
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

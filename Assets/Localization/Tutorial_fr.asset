@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 4d7c9e7db44e66f4aa84fe9d686bf156, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 230618705920
+    m_Localized: Bienvenue dans le Tutoriel de ChessEscape.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237124071424
+    m_Localized: "ChessEscape se d\xE9roule sur 204 niveaux, o\xF9 l\u2019\xE9chiquier
+      traditionnel devient la sc\xE8ne sur laquelle tu mettras ton intelligence \xE0
+      l\u2019\xE9preuve."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 240546623488
+    m_Localized: "Ton objectif est de conduire le Roi jusqu\u2019\xE0 la case en
+      haut \xE0 droite, o\xF9 se trouve la porte. Cette case correspond \xE0 H8 sur
+      un \xE9chiquier traditionnel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1643788775424
+    m_Localized: "Le Roi commence toujours sur la case en bas \xE0 gauche, \xE9quivalente
+      \xE0 A1 sur un \xE9chiquier traditionnel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1674725961728
+    m_Localized: "Par d\xE9faut, le Roi poss\xE8de 3 Points de Mouvement (PM) \xE0
+      chaque tour."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1708913733632
+    m_Localized: "Chaque fois que tu le s\xE9lectionnes, sa port\xE9e de mouvement
+      s\u2019affiche en vert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739418906624
+    m_Localized: "Il en ira de m\xEAme si tu choisis le Pion ou une autre Pi\xE8ce
+      Alli\xE9e, comme le Cavalier, le Fou, la Tour ou la Dame."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4847662411776
+    m_Localized: "L\u2019affichage de la port\xE9e peut \xEAtre d\xE9sactiv\xE9 en
+      appuyant \xE0 nouveau sur la m\xEAme pi\xE8ce."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4782298378240
+    m_Localized: "En appuyant sur le bouton \xAB D\xE9marrer \xBB, le Roi sera s\xE9lectionn\xE9
+      par d\xE9faut."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5022481002496
+    m_Localized: "Le Roi et les Pi\xE8ces Alli\xE9es peuvent \xE9liminer les Pi\xE8ces
+      Ennemies si elles se trouvent dans leur port\xE9e d\u2019attaque. Une case
+      fuchsia s\u2019illuminera quand cette option sera disponible."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5100088209408
+    m_Localized: "Pour les Pi\xE8ces Ennemies, en appuyant dessus tu verras leur
+      Port\xE9e d\u2019Attaque Fatale et leur Port\xE9e d\u2019Attaque \xE0 Distance.
+      Appuie de nouveau pour la d\xE9sactiver."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5127837724672
+    m_Localized: "Par d\xE9faut, le Roi poss\xE8de 5 Points d\u2019Action (PA) \xE0
+      chaque tour. Ils sont n\xE9cessaires pour qu\u2019il puisse ordonner le d\xE9placement
+      des Pi\xE8ces Alli\xE9es."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5158242234368
+    m_Localized: "Chaque tour dure 30 secondes. Si tu obtiens une Horloge Dor\xE9e,
+      tu gagnes 15 secondes suppl\xE9mentaires pour ce tour."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188302811136
+    m_Localized: "Le Roi poss\xE8de 7 Vies (tours), qui peuvent augmenter ou diminuer
+      gr\xE2ce aux objets."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5223002288128
+    m_Localized: "Tu trouveras aussi des objets qui ajoutent des PA et PM au Roi,
+      ou qui augmentent la port\xE9e de mouvement des Pi\xE8ces Alli\xE9es."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5251418697728
+    m_Localized: "Plus d\u2019informations sur les objets et les pi\xE8ces se trouvent
+      dans le Codex de ChessEscape."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5284742443008
+    m_Localized: "L\u2019interface de notification t\u2019informera \xE0 chaque fois
+      que tu obtiens une nouvelle page."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5317822918656
+    m_Localized: "Voil\xE0, c\u2019est tout ! Commence maintenant l\u2019aventure
+      et accompagne le Roi jusqu\u2019\xE0 la Salle Finale.\nTu peux y arriver !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262470894759936
+    m_Localized: "Lorsque les Pi\xE8ces Ennemies attaquent \xE0 distance, elles retirent
+      des PM au Roi ou des PA s\u2019il s\u2019agit d\u2019une Pi\xE8ce Alli\xE9e.
+      Tu le remarqueras gr\xE2ce \xE0 la ligne de menace projet\xE9e par la Pi\xE8ce
+      Ennemie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 397500686151680
+    m_Localized: "Ceci est le r\xE9sum\xE9 visuel des objets qui fa\xE7onnent l\u2019univers
+      de ChessEscape."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

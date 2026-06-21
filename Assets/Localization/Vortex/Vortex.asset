@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Vortex
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 51d4c1fab67e2a54cb3dd5ab7c676665, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 1378da984525e974f9c87036d12dc9c6, type: 2}
+  - {fileID: 11400000, guid: fbdf5540e3701114e816efe0b03df88c, type: 2}
+  - {fileID: 11400000, guid: 1c70ff3e7ac20874aad576716e6ec48b, type: 2}
+  - {fileID: 11400000, guid: 0d2644febbf16764e96b444ceb26b9eb, type: 2}
+  - {fileID: 11400000, guid: 6e0dbccb4ec3d8244bbf950c7d09473e, type: 2}
+  - {fileID: 11400000, guid: 728e90dac3b18564bb42cade6b1cbf4d, type: 2}
+  - {fileID: 11400000, guid: ee8cca0a69833cd4b87b8626d3030509, type: 2}
+  - {fileID: 11400000, guid: ab6828976ecec1b4fba4440158f5d829, type: 2}
+  - {fileID: 11400000, guid: d13de8693fb67b8428420830da8d4168, type: 2}
+  - {fileID: 11400000, guid: 839431f8e067c904d81ef29bb5acfe96, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

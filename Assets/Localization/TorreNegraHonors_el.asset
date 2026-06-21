@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TorreNegraHonors_el
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: el
+  m_SharedData: {fileID: 11400000, guid: 7ccd71bfc2ffdec4bbdd1110d133476d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7240568832
+    m_Localized: "\u039C\u03B1\u03CD\u03C1\u03BF\u03C2 \u03A0\u03CD\u03C1\u03B3\u03BF\u03C2
+      I Dan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10566651904
+    m_Localized: "\u039D\u03AF\u03BA\u03B7\u03C3\u03B5 1 \u039C\u03B1\u03CD\u03C1\u03BF
+      \u03A0\u03CD\u03C1\u03B3\u03BF"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119475949568
+    m_Localized: "\u039C\u03B1\u03CD\u03C1\u03BF\u03C2 \u03A0\u03CD\u03C1\u03B3\u03BF\u03C2
+      II Dan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148903186432
+    m_Localized: "\u039D\u03AF\u03BA\u03B7\u03C3\u03B5 3 \u039C\u03B1\u03CD\u03C1\u03BF\u03C5\u03C2
+      \u03A0\u03CD\u03C1\u03B3\u03BF\u03C5\u03C2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269434900480
+    m_Localized: "\u039C\u03B1\u03CD\u03C1\u03BF\u03C2 \u03A0\u03CD\u03C1\u03B3\u03BF\u03C2
+      III Dan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406131462144
+    m_Localized: "\u039D\u03AF\u03BA\u03B7\u03C3\u03B5 5 \u039C\u03B1\u03CD\u03C1\u03BF\u03C5\u03C2
+      \u03A0\u03CD\u03C1\u03B3\u03BF\u03C5\u03C2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431569915904
+    m_Localized: "\u039C\u03B1\u03CD\u03C1\u03BF\u03C2 \u03A0\u03CD\u03C1\u03B3\u03BF\u03C2
+      IV Dan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 457272610816
+    m_Localized: "\u039D\u03AF\u03BA\u03B7\u03C3\u03B5 7 \u039C\u03B1\u03CD\u03C1\u03BF\u03C5\u03C2
+      \u03A0\u03CD\u03C1\u03B3\u03BF\u03C5\u03C2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 479452090368
+    m_Localized: "\u039C\u03B1\u03CD\u03C1\u03BF\u03C2 \u03A0\u03CD\u03C1\u03B3\u03BF\u03C2
+      V Dan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504517251072
+    m_Localized: "\u039D\u03AF\u03BA\u03B7\u03C3\u03B5 10 \u039C\u03B1\u03CD\u03C1\u03BF\u03C5\u03C2
+      \u03A0\u03CD\u03C1\u03B3\u03BF\u03C5\u03C2"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

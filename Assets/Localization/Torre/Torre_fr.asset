@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Torre_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 2135c77c36bf97e41a9848845cd52bef, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13328592896
+    m_Localized: Tour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89421656064
+    m_Localized: "Port\xE9e de mouvement"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152805978112
+    m_Localized: "Port\xE9e d\u2019attaque"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 250818473984
+    m_Localized: "D\xE9placement"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274444988416
+    m_Localized: Vertical et horizontal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343768444928
+    m_Localized: Attaques
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382691586048
+    m_Localized: "Dans sa port\xE9e de mouvement"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441780940800
+    m_Localized: "\xC9puise 1 PA du Roi \xE0 chaque d\xE9placement. En atteignant
+      la case de sortie, accorde au Roi 7 PM, 7 PA et 7 vies."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

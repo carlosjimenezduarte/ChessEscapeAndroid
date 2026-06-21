@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702777328635",
+    "project_id": "chessescapeauth",
+    "storage_bucket": "chessescapeauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702777328635:android:156d92bb2b7ef84659815e",
+        "android_client_info": {
+          "package_name": "com.saintmartin.chessescape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702777328635-r8421utmjtpdgo38fnn5u3ag46i7hk2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saintmartin.chessescape",
+            "certificate_hash": "517808b3acc3cc3771721affaebdbcccdcd54a0e"
+          }
+        },
+        {
+          "client_id": "702777328635-cnj34u37po4ua46din71oo8g61912f42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGkE1OU1bECUiIKf9TjDP8oNEtJQF2U60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702777328635-cnj34u37po4ua46din71oo8g61912f42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9324562557935244~4528510127"
+    }
+  ],
+  "configuration_version": "1"
+}

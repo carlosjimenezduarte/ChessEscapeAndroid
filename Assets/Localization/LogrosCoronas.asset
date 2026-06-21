@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: LogrosCoronas
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 113bdcf3b939f874ea4d60827213eccc, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 80034a16925132f4a9de778cd328ca22, type: 2}
+  - {fileID: 11400000, guid: 2826882e525414342a921d49c5b66631, type: 2}
+  - {fileID: 11400000, guid: 88ce4314306120149bf8fcd92c3b2adc, type: 2}
+  - {fileID: 11400000, guid: df80249146d859646ae9d9c4adaea0ef, type: 2}
+  - {fileID: 11400000, guid: 3450c9a104b5b4f4dbf7b9a6ef0bc792, type: 2}
+  - {fileID: 11400000, guid: 25cc44be5dd6c81478c3a886d2660215, type: 2}
+  - {fileID: 11400000, guid: e075bdb65bbc5f44e8cb2a40677a2e7c, type: 2}
+  - {fileID: 11400000, guid: 70d0bea7a5fe0f54bb42877912091cca, type: 2}
+  - {fileID: 11400000, guid: 4b578272570d89d449228bd7c1dc33af, type: 2}
+  - {fileID: 11400000, guid: 896b1afa136dca34d808cfd7642ff54e, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UltimosNiveles_el
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: el
+  m_SharedData: {fileID: 11400000, guid: d30a74d5a5b367642a823a78f3e04710, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8121372672
+    m_Localized: "\u0398\u03C5\u03BC\u03AE\u03C3\u03BF\u03C5 \u03C4\u03B7\u03BD \u03C5\u03C0\u03CC\u03C3\u03C7\u03B5\u03C3\u03B7
+      \u03C4\u03BF\u03C5 \u03A4\u03B6\u03AF\u03BD\u03B9!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38651711488
+    m_Localized: "\u0391\u03BD \u03BA\u03B1\u03C4\u03B1\u03C6\u03AD\u03C1\u03B5\u03B9\u03C2
+      \u03BD\u03B1 \u03B1\u03BD\u03BF\u03AF\u03BE\u03B5\u03B9\u03C2 \u03C4\u03BF
+      \u0398\u03C1\u03C5\u03BB\u03B9\u03BA\u03CC \u03A3\u03B5\u03BD\u03C4\u03BF\u03CD\u03BA\u03B9,
+      \u03B8\u03B1 \u03B3\u03AF\u03BD\u03B5\u03B9\u03C2 \u03AD\u03BD\u03B1\u03C2
+      \u03A3\u03C4\u03AD\u03C6\u03B5\u03C4\u03B1\u03B9 \u0392\u03B1\u03C3\u03B9\u03BB\u03B9\u03AC\u03C2!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61904932864
+    m_Localized: "\u0391\u03C5\u03C4\u03CC \u03C4\u03BF \u03C4\u03B1\u03BE\u03AF\u03B4\u03B9
+      \u03C6\u03C4\u03AC\u03BD\u03B5\u03B9 \u03C3\u03C4\u03BF \u03C4\u03AD\u03BB\u03BF\u03C2
+      \u03C4\u03BF\u03C5!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93446098944
+    m_Localized: "\u0395\u03AF\u03C3\u03B1\u03B9 \u03AD\u03C4\u03BF\u03B9\u03BC\u03BF\u03C2
+      \u03BD\u03B1 \u03B1\u03BD\u03B1\u03BA\u03B1\u03BB\u03CD\u03C8\u03B5\u03B9\u03C2
+      \u03C4\u03B9 \u03BA\u03C1\u03CD\u03B2\u03B5\u03C4\u03B1\u03B9 \u03C0\u03AF\u03C3\u03C9
+      \u03B1\u03C0\u03CC \u03B1\u03C5\u03C4\u03AE\u03BD \u03C4\u03B7\u03BD \u03C0\u03CC\u03C1\u03C4\u03B1;"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 143375093760
+    m_Localized: "\u039C\u03C0\u03BF\u03C1\u03B5\u03AF\u03C2!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

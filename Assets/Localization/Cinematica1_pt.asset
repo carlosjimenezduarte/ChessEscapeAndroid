@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cinematica1_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: c2d267b057669f54da106f121bf5e76b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 164489220096
+    m_Localized: Havia um homem que perdeu tudo e viajou sem rumo durante muitos
+      anos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170336079872
+    m_Localized: "Entre ru\xEDnas antigas encontrou uma l\xE2mpada dourada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 172420648960
+    m_Localized: "Dela surgiu um G\xE9nio radiante, que ofereceu realizar um \xFAnico
+      desejo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177554477056
+    m_Localized: "\u201CQuero ser Rei. Quero um Reino s\xF3 meu\u201D, respondeu
+      o homem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181543260160
+    m_Localized: "O G\xE9nio respondeu: \u201CO teu desejo ser\xE1 concedido. Mas
+      nenhum Reino \xE9 dado sem provas.\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 184470884352
+    m_Localized: "\u201CSe realmente queres ser Rei, entra agora mesmo nesta sala.
+      O teu Reino espera por ti\u201D, convidou o G\xE9nio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186479955968
+    m_Localized: "Emocionado, o homem entrou na primeira sala, onde descobriu com
+      decep\xE7\xE3o que estava cheia de pe\xE7as de xadrez."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188791017472
+    m_Localized: "E ent\xE3o o G\xE9nio transformou o homem num Rei de xadrez, cuja
+      pele se fundiu com a do tabuleiro."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 190506487808
+    m_Localized: "Duzentas salas de prova esperam pelo Rei. Duzentas provas para
+      medir a convic\xE7\xE3o do seu desejo. Duzentas provas para conquistar o seu
+      pr\xF3prio Reino."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 193123733504
+    m_Localized: "Ajudar\xE1s este homem a tornar-se um verdadeiro Rei? Ser\xE1s
+      capaz de o guiar?"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: PocimaGris
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: d54f144d073648542accb436f5c584bc, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 8fdd7f76a54d9de4d9241e7171ef5373, type: 2}
+  - {fileID: 11400000, guid: 6106fe36c4c345445886a17de495c706, type: 2}
+  - {fileID: 11400000, guid: 5bc976f34cdcce84fa299fab91ace949, type: 2}
+  - {fileID: 11400000, guid: 5c040c5262cddfd478eaf0cf7e1684a5, type: 2}
+  - {fileID: 11400000, guid: 1d67998c468dc514d87716cbab50cb01, type: 2}
+  - {fileID: 11400000, guid: 556b80b96a859a0408d9e39602b34071, type: 2}
+  - {fileID: 11400000, guid: 2675f1cf4c12ed647b1972a41692e9e6, type: 2}
+  - {fileID: 11400000, guid: 1e3ebd0985a7345489018d94c3402abf, type: 2}
+  - {fileID: 11400000, guid: 1e6bcd91c01247c49922e932fd756e77, type: 2}
+  - {fileID: 11400000, guid: cb320021f85fc724ea1b57d775ef6834, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

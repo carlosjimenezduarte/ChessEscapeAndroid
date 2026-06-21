@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Cofre del Reino
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: f06f516571a1e4e47a341f8099ce779e, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: ab2c27e92388cd6438447afabceac8c6, type: 2}
+  - {fileID: 11400000, guid: fbcabb4ba0c989746ae5317abbb51ca4, type: 2}
+  - {fileID: 11400000, guid: 51e90619d0189cd4f930dff918af2a32, type: 2}
+  - {fileID: 11400000, guid: 0053fc57b7d47ce4ca83041f64f5f112, type: 2}
+  - {fileID: 11400000, guid: 1bc665ff001b97a4c83bbd9618bd039b, type: 2}
+  - {fileID: 11400000, guid: 694e2a9f6f6f5fe439d5d72ab7b24033, type: 2}
+  - {fileID: 11400000, guid: 09004746acfa2734f88848a9598c6e35, type: 2}
+  - {fileID: 11400000, guid: e58324b40b80409488ca8b5cb5fb5bbe, type: 2}
+  - {fileID: 11400000, guid: 499010457c345a94489bc972570233b9, type: 2}
+  - {fileID: 11400000, guid: 83a219c1b7e007c49b5da8bf9906f1e8, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

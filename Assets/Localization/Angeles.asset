@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Angeles
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 7eca05f5609d42645a275d450c970ff9, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 38e8b83c6a91c6e4eade6fb6ea1ba253, type: 2}
+  - {fileID: 11400000, guid: 37fc87a8b897c7c4dace59f7bf26da01, type: 2}
+  - {fileID: 11400000, guid: c97c08c416b93dd45ac2045dbb16e508, type: 2}
+  - {fileID: 11400000, guid: 499811933f75ff740a6e8ffb3f3dab6f, type: 2}
+  - {fileID: 11400000, guid: a54b0643d41b9e3418222797fc55069b, type: 2}
+  - {fileID: 11400000, guid: f284f889375c2a343bb062f1f0b89be6, type: 2}
+  - {fileID: 11400000, guid: dec910057898a6e489dcf2961eaa400f, type: 2}
+  - {fileID: 11400000, guid: 2e0acf4cba1546a4b8cc834babf2bd57, type: 2}
+  - {fileID: 11400000, guid: 667879e62042eb84ab21d1a975b39243, type: 2}
+  - {fileID: 11400000, guid: 714e87eea345c1447af62f73bd697703, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

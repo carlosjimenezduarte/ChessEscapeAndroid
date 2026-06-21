@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LogrosCoronas_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 113bdcf3b939f874ea4d60827213eccc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15553679360
+    m_Localized: Collector of Crowns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39180193792
+    m_Localized: Obtain 10 crowns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66422198272
+    m_Localized: Keeper of Crowns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85112016896
+    m_Localized: Obtain 20 crowns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108302323712
+    m_Localized: Master of Crowns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122357436416
+    m_Localized: Obtain 30 crowns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149838516224
+    m_Localized: Guardian of Crowns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166246633472
+    m_Localized: Obtain 40 crowns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 184907091968
+    m_Localized: King of Crowns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 203257171968
+    m_Localized: Obtain 50 crowns
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

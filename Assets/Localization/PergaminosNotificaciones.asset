@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: PergaminosNotificaciones
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 1b1b61f507e38c446a58475e1c530568, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 105a396b3d0079e4397acba55371e2ac, type: 2}
+  - {fileID: 11400000, guid: 85c81a5b1bda29741921d7cd0ac711d8, type: 2}
+  - {fileID: 11400000, guid: 4fe11dfd18ee2b44990d53342a5e7eed, type: 2}
+  - {fileID: 11400000, guid: 608c71b57b1ad6043b9591c71e669149, type: 2}
+  - {fileID: 11400000, guid: e7c4296c1dcda124cafee043af3b5014, type: 2}
+  - {fileID: 11400000, guid: f39fd5343fd3055459457430426de1cb, type: 2}
+  - {fileID: 11400000, guid: 28acb2b27071e524f8ada0ac721e8933, type: 2}
+  - {fileID: 11400000, guid: a895edf134de7f547b67915d0e95bff3, type: 2}
+  - {fileID: 11400000, guid: 060e1f26bc658094bb58a7d63278c434, type: 2}
+  - {fileID: 11400000, guid: fda292db260ae1249bb86e882f2bbf18, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []
